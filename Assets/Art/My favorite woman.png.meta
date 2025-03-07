@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 418633300d049af408be92701ed3a9c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3763752930381237044
+    second: New Piskel (2)_0
+  - first:
+      213: -445332791505162358
+    second: New Piskel (2)_1
+  - first:
+      213: 109718205546589128
+    second: New Piskel (2)_2
+  - first:
+      213: -8637498362619983186
+    second: New Piskel (2)_3
+  - first:
+      213: -1639124903628890771
+    second: New Piskel (2)_4
+  - first:
+      213: -5794501693467541010
+    second: New Piskel (2)_5
+  - first:
+      213: 734891649374728833
+    second: New Piskel (2)_6
+  - first:
+      213: 4282785891962925040
+    second: New Piskel (2)_7
+  - first:
+      213: -4562832033278822378
+    second: New Piskel (2)_8
+  - first:
+      213: 2625567014080777165
+    second: New Piskel (2)_9
+  - first:
+      213: -6083270854300872640
+    second: New Piskel (2)_10
+  - first:
+      213: 4030267468922091137
+    second: New Piskel (2)_11
+  - first:
+      213: -228142917924625658
+    second: New Piskel (2)_12
+  - first:
+      213: 3863986485101089118
+    second: New Piskel (2)_13
+  - first:
+      213: 5469140026819405978
+    second: New Piskel (2)_14
+  - first:
+      213: 4030626049622906187
+    second: New Piskel (2)_15
+  - first:
+      213: 687797194047031795
+    second: New Piskel (2)_16
+  - first:
+      213: 3356153408913867552
+    second: New Piskel (2)_17
+  - first:
+      213: 7340134529209366022
+    second: New Piskel (2)_18
+  - first:
+      213: -713053794743563234
+    second: New Piskel (2)_19
+  - first:
+      213: 125054077109917613
+    second: New Piskel (2)_20
+  - first:
+      213: 5141472395356981976
+    second: New Piskel (2)_21
+  - first:
+      213: 5832833333032430816
+    second: New Piskel (2)_22
+  - first:
+      213: -3864163461929653377
+    second: New Piskel (2)_23
+  - first:
+      213: -3253121109929213756
+    second: New Piskel (2)_24
+  - first:
+      213: -4783297203831650087
+    second: New Piskel (2)_25
+  - first:
+      213: 5946837900607129991
+    second: New Piskel (2)_26
+  - first:
+      213: -8659314747943452698
+    second: New Piskel (2)_27
+  - first:
+      213: 7222308185013534920
+    second: New Piskel (2)_28
+  - first:
+      213: 548205458964093509
+    second: New Piskel (2)_29
+  - first:
+      213: 1019233772759137817
+    second: New Piskel (2)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: My favorite woman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b17c1dd8d7714495b2c8adc09686c
+      internalID: -1431769452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 765
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4df20ca4af82f4e9355623c653e149
+      internalID: -178758594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 765
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a5f9f496717140a03480fb67e7bcc
+      internalID: -1903549557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 765
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dccfa0d5497704ba44fa1faddb9749
+      internalID: 1549730456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 765
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37c634cf89eb6458da4f3dfa99bd23
+      internalID: -803911907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742b666e3fa29b48b6bdb0989b8c467
+      internalID: -2120972230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5299724993e884cb13edd40879c203
+      internalID: -1591659753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634bf8d15dda785499940d92642a71a2
+      internalID: 314457784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2291534ecb84a544186fb11f8a207b45
+      internalID: -1929776213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8f47080749894a90ec6ba807e5144
+      internalID: 1516974026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27863df1a5f542345bbf2745b612c425
+      internalID: 251769162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fd06e162f6cba4f9ca6d6dab74d565
+      internalID: 1078443446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dcc3aea8a7a824faab3f827c9b837d
+      internalID: -1124907568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b8411f86fb6c4bafdc206706739f4
+      internalID: -832136079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8742c7f3f8bae4747903180febd6ac93
+      internalID: 1808961330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddb7765fa7bfc49b1f73a62244b57c
+      internalID: 155878457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907808b285759c4e85580c6d34296e8
+      internalID: 1230790410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1055ae1b6e8a4d4280b1929f97d89b7
+      internalID: -1810332764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d082ecdeff9d49917ddb706154fb5
+      internalID: 514070825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753b6b94c48d9148a00e6854c97408a
+      internalID: 1334743638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04f6e9f85b6c34caa812845147e646
+      internalID: -562562562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a1c7fb98a05d41a39f042a80572ea
+      internalID: -1532827938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb2b1ae73c1474aa7b273545e3d841
+      internalID: 1905377631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bdf4bf235b0a046b802a3f57efad98
+      internalID: -1838582133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61236a3200f63c542bc5e7cb597aabaf
+      internalID: 715825713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My favorite woman_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c6734f0f38b643882ebdd83037313
+      internalID: 1030481989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b75d4270cc90a6e4d9aeaa8ad367eee0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      My favorite woman_0: -1431769452
+      My favorite woman_1: -178758594
+      My favorite woman_10: 251769162
+      My favorite woman_11: 1078443446
+      My favorite woman_12: -1124907568
+      My favorite woman_13: -832136079
+      My favorite woman_14: 1808961330
+      My favorite woman_15: 155878457
+      My favorite woman_16: 1230790410
+      My favorite woman_17: -1810332764
+      My favorite woman_18: 514070825
+      My favorite woman_19: 1334743638
+      My favorite woman_2: -1903549557
+      My favorite woman_20: -562562562
+      My favorite woman_21: -1532827938
+      My favorite woman_22: 1905377631
+      My favorite woman_23: -1838582133
+      My favorite woman_24: 715825713
+      My favorite woman_25: 1030481989
+      My favorite woman_3: 1549730456
+      My favorite woman_4: -803911907
+      My favorite woman_5: -2120972230
+      My favorite woman_6: -1591659753
+      My favorite woman_7: 314457784
+      My favorite woman_8: -1929776213
+      My favorite woman_9: 1516974026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

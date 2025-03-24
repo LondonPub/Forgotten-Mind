@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: c24b3dc688460d74a9b198121697f7c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6888756438569675735
+    second: New Piskel (1)_0
+  - first:
+      213: 9173839873224666002
+    second: New Piskel (1)_1
+  - first:
+      213: -745645855993587873
+    second: New Piskel (1)_2
+  - first:
+      213: 4123733795721074919
+    second: New Piskel (1)_3
+  - first:
+      213: -1753449832276896209
+    second: New Piskel (1)_4
+  - first:
+      213: 3188600494121364513
+    second: New Piskel (1)_5
+  - first:
+      213: 393433629526434239
+    second: New Piskel (1)_6
+  - first:
+      213: -6999936710424723473
+    second: New Piskel (1)_7
+  - first:
+      213: 5940041773153359950
+    second: New Piskel (1)_8
+  - first:
+      213: 7506680604602429903
+    second: New Piskel (1)_9
+  - first:
+      213: -8695545766370844827
+    second: New Piskel (1)_10
+  - first:
+      213: 7137586956756217966
+    second: New Piskel (1)_11
+  - first:
+      213: -1545029242027367301
+    second: New Piskel (1)_12
+  - first:
+      213: 8101533981685690433
+    second: New Piskel (1)_13
+  - first:
+      213: 4801293961129559398
+    second: New Piskel (1)_14
+  - first:
+      213: -6430870321733951535
+    second: New Piskel (1)_15
+  - first:
+      213: 3573209282882095603
+    second: New Piskel (1)_16
+  - first:
+      213: -5327827185363330059
+    second: New Piskel (1)_17
+  - first:
+      213: -4224503851982913176
+    second: New Piskel (1)_18
+  - first:
+      213: -7014553719434779897
+    second: New Piskel (1)_19
+  - first:
+      213: 5949592847331480888
+    second: New Piskel (1)_20
+  - first:
+      213: 4170087483869172866
+    second: New Piskel (1)_21
+  - first:
+      213: -8221978525592423953
+    second: New Piskel (1)_22
+  - first:
+      213: 8176395970327938649
+    second: New Piskel (1)_23
+  - first:
+      213: 462394856950266495
+    second: New Piskel (1)_24
+  - first:
+      213: 7451424815457516745
+    second: New Piskel (1)_25
+  - first:
+      213: -5537965251174010096
+    second: New Piskel (1)_26
+  - first:
+      213: 9051925332781689180
+    second: New Piskel (1)_27
+  - first:
+      213: -5008392639725783772
+    second: New Piskel (1)_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc24ed89f10a6c459d8417fc7208722
+      internalID: -785095860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebd0772457fc444b42b6a9e889708a
+      internalID: 1346877793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed7a94e3662c54e8084022e0d40785
+      internalID: -1879526227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642f629fde47f14886c3aeeec195014
+      internalID: 215273491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 612
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023f9bfa83f85b4f8358fc266b8bb63
+      internalID: 1477068353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a3d3fcd7ac0e4d804607d0811fddc
+      internalID: -1484703292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c3504f3ac490429380909a4f43a7b
+      internalID: -1613857644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf81ad91d4c32429d534c93bf2ab37
+      internalID: 19305047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6538943847ece478ea500b404068b3
+      internalID: -1849287678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 459
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b52ea26903cf458a03463384e5bfd
+      internalID: 1152707686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b257e6db21654d459b9fbdc385cc5de
+      internalID: 446441092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4225aab40584428bf9c68ea7761f4
+      internalID: -1711515703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4004f217f9d3f03488b5397857b2d6d2
+      internalID: 1022546574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448d6b18e5252641a2380099fd0537c
+      internalID: 1773981918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 306
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8044e799f1a3b489af781956c1d932
+      internalID: 925706593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb5e8588183034b9de8fdb103db1b6
+      internalID: -957328558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc1443029b79eb4db023215f9dcd80a
+      internalID: 2024379138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05187ed97e3041b4ebe14c5ddbf9ee2f
+      internalID: -915721204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8119c51a1161743a7dceb4dae751cd
+      internalID: -1753019084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 153
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6cab763f599844bc8106ae70a87be
+      internalID: 990264753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d33199c85f6af48b17a7aec2761b86
+      internalID: -110075564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d8343cb42ec5b41a044024c75c75fa
+      internalID: 1992489889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93b6f5cc1e45604d87d5b0c75235b3b
+      internalID: -634677116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UNFINISHED JUNK_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e321d7f9b5b570748b5ded359800b065
+      internalID: 1781622244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ad975fc6af76304ebed3a88ef41c060
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UNFINISHED JUNK_0: -785095860
+      UNFINISHED JUNK_1: 1346877793
+      UNFINISHED JUNK_10: 446441092
+      UNFINISHED JUNK_11: -1711515703
+      UNFINISHED JUNK_12: 1022546574
+      UNFINISHED JUNK_13: 1773981918
+      UNFINISHED JUNK_14: 925706593
+      UNFINISHED JUNK_15: -957328558
+      UNFINISHED JUNK_16: 2024379138
+      UNFINISHED JUNK_17: -915721204
+      UNFINISHED JUNK_18: -1753019084
+      UNFINISHED JUNK_19: 990264753
+      UNFINISHED JUNK_2: -1879526227
+      UNFINISHED JUNK_20: -110075564
+      UNFINISHED JUNK_21: 1992489889
+      UNFINISHED JUNK_22: -634677116
+      UNFINISHED JUNK_23: 1781622244
+      UNFINISHED JUNK_3: 215273491
+      UNFINISHED JUNK_4: 1477068353
+      UNFINISHED JUNK_5: -1484703292
+      UNFINISHED JUNK_6: -1613857644
+      UNFINISHED JUNK_7: 19305047
+      UNFINISHED JUNK_8: -1849287678
+      UNFINISHED JUNK_9: 1152707686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

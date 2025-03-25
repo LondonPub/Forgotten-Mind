@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: b6ee684d38c5a094c82c783f2f972e1b
+guid: 3152eb2a31a983743a7e89df3aca84c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9039676559857579922
-    second: bingus_0
+      213: -8527442550737655860
+    second: New Piskel (4)_0
+  - first:
+      213: -1643389817789898457
+    second: New Piskel (4)_1
+  - first:
+      213: 7211491898151854808
+    second: New Piskel (4)_2
+  - first:
+      213: -1247501539174927167
+    second: New Piskel (4)_3
+  - first:
+      213: -4124101759643554855
+    second: New Piskel (4)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bingus_0
+      name: New Piskel (4)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 600
-        height: 337
+        x: 56
+        y: 389
+        width: 121
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +126,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e688345201e9c8280800000000000000
-      internalID: -9039676559857579922
+      spriteID: cc72bb03e2078a980800000000000000
+      internalID: -8527442550737655860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (4)_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 389
+        width: 133
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a323faa18139e0800000000000000
+      internalID: -1643389817789898457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (4)_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 133
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e2f95cad541460800000000000000
+      internalID: 7211491898151854808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (4)_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 200
+        width: 133
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4b9bca5fbffaee0800000000000000
+      internalID: -1247501539174927167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (4)_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 133
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe1eecc4f34c6c0800000000000000
+      internalID: -4124101759643554855
       vertices: []
       indices: 
       edges: []
@@ -131,7 +227,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bingus_0: -9039676559857579922
+      New Piskel (4)_0: -8527442550737655860
+      New Piskel (4)_1: -1643389817789898457
+      New Piskel (4)_2: 7211491898151854808
+      New Piskel (4)_3: -1247501539174927167
+      New Piskel (4)_4: -4124101759643554855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

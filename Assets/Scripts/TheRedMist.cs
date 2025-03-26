@@ -1,60 +1,107 @@
 using UnityEngine;
-using UnityEngine.AI;
+using System.Collections;
 
-public class AggressiveMonster : MonoBehaviour
-{
-    public float detectionRange = 20f; // Distance at which the monster will notice the player
-    public float attackRange = 1.5f;   // Distance at which the monster will collide with the player
-    public float speed = 3f;           // Monster's movement speed
-    public Transform player;           // Reference to the player's transform
-    public Transform monster;          // Reference to the monster's transform
-    public LayerMask hidingPlaceLayer; // Layer to check for hiding places
-    
-    private NavMeshAgent navMeshAgent; // Reference to the NavMeshAgent component
-    private bool isChasing = false;    // Whether the monster is chasing the player
+public class AggressiveMonster : MonoBehaviour {
+    public float detectionRange = 20f;
+    public float attackRange = 1.5f;
+    public float speed = 3f;
+    public LayerMask HidingPlaceLayer;
 
-    private void Start()
-    {
-        // Get the NavMeshAgent component attached to the monster
-        navMeshAgent = GetComponent<NavMeshAgent>();
-        navMeshAgent.speed = speed;
+    private Transform player;
+    private Transform monster;
+    private Rigidbody monsterRigidbody; // To store the monster's Rigidbody component
+    private bool isChasing = false;
+    private bool isStunned = false;
+    private bool playerIsHiding = false; // Tracks if the player is hiding
+
+    private void Start() {
+        GameObject monsterObj = GameObject.FindGameObjectWithTag("Schizo");
+        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
+
+        if (monsterObj != null) {
+            monster = monsterObj.transform;
+            monsterRigidbody = monsterObj.GetComponent<Rigidbody>(); // Get the Rigidbody component
+        } else {
+            Debug.LogError("Monster with tag 'Schizo' not found!");
+        }
+
+        if (playerObj != null) {
+            player = playerObj.transform;
+        } else {
+            Debug.LogError("Player with tag 'Player' not found!");
+        }
     }
 
-    private void Update()
-    {
-        // Check if the player is within detection range and not hidden
-        if (Vector3.Distance(player.position, monster.position) < detectionRange && !IsPlayerHiding())
-        {
-            // Start chasing the player
-            isChasing = true;
-            navMeshAgent.SetDestination(player.position);
-        }
-        else
-        {
-            // Stop chasing the player if out of range or hiding
+    private void Update() {
+        if (player == null || monster == null || isStunned) return;
+
+        float distanceToPlayer = Vector3.Distance(player.position, monster.position);
+
+        // Stop chasing if the player is hiding
+        if (playerIsHiding) {
             isChasing = false;
-            navMeshAgent.ResetPath();
+        } 
+        // Check if the player is within detection range and not hiding
+        else if (distanceToPlayer < detectionRange) {
+            isChasing = true;
+        } 
+        else {
+            isChasing = false;
         }
 
-        // If the monster is chasing, check if it's close enough to attack
-        if (isChasing && Vector3.Distance(player.position, monster.position) < attackRange)
-        {
-            // Here you can add code to attack the player (e.g., reduce health)
+        // Move the monster towards the player if chasing
+        if (isChasing) {
+            monster.position = Vector3.MoveTowards(monster.position, player.position, speed * Time.deltaTime);
+        }
+
+        // If the monster is close enough, attack the player
+        if (isChasing && distanceToPlayer < attackRange) {
             AttackPlayer();
         }
     }
 
-    private bool IsPlayerHiding()
-    {
-        // Check if the player is inside a hiding place (colliding with a "HidingPlace")
-        Collider[] hidingPlaceColliders = Physics.OverlapSphere(player.position, 0.5f, hidingPlaceLayer);
-        return hidingPlaceColliders.Length > 0;
+    // This method handles the player entering a hiding place
+    private void OnTriggerEnter(Collider other) {
+        // Check if the player is colliding with a hiding place tagged "HidingPlace"
+        if (other.CompareTag("HidingPlace")) {
+            playerIsHiding = true;
+            isChasing = false; // Stop the chase immediately
+            Debug.Log("Player is hiding!");
+        }
     }
 
-    private void AttackPlayer()
-    {
-        // Add logic for the monster attacking the player (e.g., reduce health, etc.)
-        Debug.Log("Helena? has attacked the you!");
-        // For now, we'll just log it for debugging
+    // This method handles the player leaving the hiding place
+    private void OnTriggerExit(Collider other) {
+        // If the player exits a hiding place, they are no longer hiding
+        if (other.CompareTag("HidingPlace")) {
+            playerIsHiding = false;
+            Debug.Log("Player is no longer hiding!");
+        }
+    }
+
+    private void AttackPlayer() {
+        Debug.Log("HeLeNa? got too close");
+        StartCoroutine(StunMonster(10f));
+    }
+
+    private IEnumerator StunMonster(float duration) {
+        isStunned = true;
+        isChasing = false;
+
+        // Lock the movement and rotation of the monster while it's stunned
+        if (monsterRigidbody != null) {
+            monsterRigidbody.constraints = RigidbodyConstraints.FreezeAll; // Freeze both movement and rotation
+        }
+
+        Debug.Log("HeLeNa? is stunned for " + duration + " seconds.");
+        yield return new WaitForSeconds(duration);
+
+        // Unlock the movement and rotation after the stun duration is over
+        if (monsterRigidbody != null) {
+            monsterRigidbody.constraints = RigidbodyConstraints.None; // Allow movement and rotation again
+        }
+
+        isStunned = false;
+        Debug.Log("HeLeNa? can move again");
     }
 }

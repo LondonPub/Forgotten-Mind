@@ -29,6 +29,9 @@ public class ChangeSpriteOnCollision : MonoBehaviour
     // The position to move the player when colliding with "Schizo"
     public Vector3 playerTargetPosition;
 
+    // Time to freeze the transform (movement and rotation) after sprite change
+    public float freezeDuration = 10f;
+
     void Start()
     {
         // Get the SpriteRenderer component of the object
@@ -69,7 +72,7 @@ public class ChangeSpriteOnCollision : MonoBehaviour
                         rb2d.gravityScale = 0;
                     }
 
-                    // Lock the movement by setting the Rigidbody2D body type to Kinematic
+                    // Lock the movement and rotation by setting the Rigidbody2D body type to Kinematic
                     if (rb2d != null)
                     {
                         rb2d.bodyType = RigidbodyType2D.Kinematic;
@@ -77,16 +80,25 @@ public class ChangeSpriteOnCollision : MonoBehaviour
                     }
 
                     // Start the coroutine to disappear, reset the sprite/position, and then move the player
-                    StartCoroutine(DisappearAndReset(collision.gameObject));
+                    StartCoroutine(FreezeAndReset(collision.gameObject));
                 }
             }
         }
     }
 
-    // Coroutine to handle disappearing and resetting the sprite and position, and then moving the player
-    private IEnumerator DisappearAndReset(GameObject player)
+    // Coroutine to handle freezing, disappearing, resetting the sprite and position, and then moving the player
+    private IEnumerator FreezeAndReset(GameObject player)
     {
-        // Wait for the specified time (5 seconds)
+        // Wait for the specified freeze duration (10 seconds)
+        yield return new WaitForSeconds(freezeDuration);
+
+        // After 10 seconds, unfreeze the transform (movement and rotation)
+        if (rb2d != null)
+        {
+            rb2d.bodyType = RigidbodyType2D.Dynamic; // Set the Rigidbody2D back to Dynamic to enable movement and rotation
+        }
+
+        // Wait for the disappearTime duration
         yield return new WaitForSeconds(disappearTime);
 
         // Disable the sprite renderer to make the image disappear
@@ -105,7 +117,7 @@ public class ChangeSpriteOnCollision : MonoBehaviour
         if (rb2d != null)
         {
             rb2d.gravityScale = 1; // Reset gravity scale to its default
-            rb2d.bodyType = RigidbodyType2D.Dynamic; // Reset the Rigidbody2D back to Dynamic
+            rb2d.bodyType = RigidbodyType2D.Dynamic; // Ensure Rigidbody2D is dynamic after reset
         }
 
         // Move the player to the specified target position (immediately after the reset)

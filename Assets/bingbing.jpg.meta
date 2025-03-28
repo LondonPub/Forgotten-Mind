@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b6ee684d38c5a094c82c783f2f972e1b
+guid: e7cca4b9300f51f42aaa8bdc1e2ea3d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9039676559857579922
-    second: bingus_0
+      213: -1494377881884912355
+    second: bingbing_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bingus_0
+      name: bingbing_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 600
-        height: 337
+        width: 800
+        height: 450
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e688345201e9c8280800000000000000
-      internalID: -9039676559857579922
+      spriteID: d159c06eb37e24be0800000000000000
+      internalID: -1494377881884912355
       vertices: []
       indices: 
       edges: []
@@ -131,7 +131,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bingus_0: -9039676559857579922
+      bingbing_0: -1494377881884912355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

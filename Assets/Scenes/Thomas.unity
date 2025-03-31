@@ -180,7 +180,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.9314165
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   newSprite: {fileID: -8456724320041395749, guid: a90d5424bc60d784d96f979cdae5630b, type: 3}
   enlargedScale: {x: 6, y: 6, z: 1}
-  disappearTime: 3
+  disappearTime: 0.01
   targetPosition: {x: -8.69, y: -2.07, z: 0}
   playerTargetPosition: {x: -8.69, y: -2.67, z: 0}
   freezeDuration: 10

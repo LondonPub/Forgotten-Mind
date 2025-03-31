@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class AggressiveMonster : MonoBehaviour {
+public class TheRedMist : MonoBehaviour {
     public float detectionRange = 20f;
     public float attackRange = 1.5f;
     public float speed = 3f;

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerHiding : MonoBehaviour
+public class yuri : MonoBehaviour
 {
     private bool playerIsHiding = false;
 

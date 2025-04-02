@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChangeSpriteOnCollision : MonoBehaviour
+public class FIVENIGHTSATFREDDYS : MonoBehaviour
 {
     // The sprite you want to switch to
     public Sprite newSprite;

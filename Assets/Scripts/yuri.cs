@@ -5,7 +5,7 @@ public class yuri : MonoBehaviour
     private bool playerIsHiding = false;
 
     // This method handles the player entering a hiding place
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("HidingPlace"))
         {
@@ -15,7 +15,7 @@ public class yuri : MonoBehaviour
     }
 
     // This method handles the player leaving the hiding place
-    private void OnTriggerExit(Collider other)
+    private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("HidingPlace"))
         {

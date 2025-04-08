@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   detectionRange: 20
-  attackRange: 1.5
+  attackRange: 0.83
   speed: 3
   wanderRange: 10
   wanderTime: 3

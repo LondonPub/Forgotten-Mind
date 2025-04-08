@@ -18,7 +18,7 @@ public class TheRedMist : MonoBehaviour
     private yuri playerHidingScript;
 
     private Vector3 wanderTarget; // The current target position for wandering
-    private float wanderTimer = 0f;
+    private float wanderTimer = 1f;
 
     private void Start()
     {

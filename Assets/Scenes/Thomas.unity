@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 350617966}
   - component: {fileID: 350617965}
   - component: {fileID: 350617964}
-  - component: {fileID: 350617971}
+  - component: {fileID: 350617969}
   m_Layer: 0
   m_Name: Helena?
   m_TagString: Schizo
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 366ff0064d0b54045bae26ffba54746e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newSprite: {fileID: -8622406286894332582, guid: 5f6ae6e806a79b042aa1e4e245c4a008, type: 3}
+  newSprite: {fileID: 8842378342906613567, guid: ebee84d9ada2b3440b4ef868a1735986, type: 3}
   enlargedScale: {x: 6, y: 6, z: 1}
   disappearTime: 0.01
   targetPosition: {x: -8.69, y: -2.07, z: 0}
@@ -396,7 +396,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &350617971
+--- !u!114 &350617969
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -408,9 +408,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f1a8bdf038457346a6a69eac4d41ad4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detectionRange: 10
-  attackRange: 0.83
-  speed: 13
+  detectionRange: 20
+  attackRange: 1.5
+  speed: 3
+  wanderRange: 10
+  wanderTime: 3
   HidingPlaceLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -499,8 +501,8 @@ Transform:
   m_GameObject: {fileID: 716216576}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.67, y: -2.67, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.12, y: -2.67, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -862,8 +864,8 @@ Transform:
   m_GameObject: {fileID: 1082554863}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.3723, y: -2.2291, z: 1}
-  m_LocalScale: {x: 2.069745, y: 1.545146, z: 1}
+  m_LocalPosition: {x: -3.77, y: -2.2291, z: 1}
+  m_LocalScale: {x: 2.069745, y: 1.545146, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

@@ -6,9 +6,11 @@ public class TheRedMist : MonoBehaviour
     public float detectionRange = 20f;
     public float attackRange = 1.5f;
     public float speed = 3f;
-    public float wanderRange = 10f; // The range in which the monster will wander
-    public float wanderTime = 3f; // Time spent wandering before choosing another point
+    public float wanderTime = 3f;
     public LayerMask HidingPlaceLayer;
+
+    public Transform wanderPointA; // First point to wander to
+    public Transform wanderPointB; // Second point to wander to
 
     private Transform player;
     private Transform monster;
@@ -17,8 +19,7 @@ public class TheRedMist : MonoBehaviour
     private bool isStunned = false;
     private yuri playerHidingScript;
 
-    private Vector3 wanderTarget; // The current target position for wandering
-    private float wanderTimer = 0f;
+    private Transform currentWanderTarget;
 
     private void Start()
     {
@@ -45,8 +46,12 @@ public class TheRedMist : MonoBehaviour
             Debug.LogError("Player with tag 'Player' not found!");
         }
 
-        // Initialize the wander target
-        SetNewWanderTarget();
+        if (wanderPointA == null || wanderPointB == null)
+        {
+            Debug.LogError("Wander points A and B must be assigned in the Inspector!");
+        }
+
+        currentWanderTarget = wanderPointA;
     }
 
     private void Update()
@@ -57,12 +62,10 @@ public class TheRedMist : MonoBehaviour
 
         bool playerIsHiding = playerHidingScript != null && playerHidingScript.IsPlayerHiding();
 
-        // Stop chasing if the player is hiding
         if (playerIsHiding)
         {
             isChasing = false;
         }
-        // Check if the player is within detection range and not hiding
         else if (distanceToPlayer < detectionRange)
         {
             isChasing = true;
@@ -72,47 +75,31 @@ public class TheRedMist : MonoBehaviour
             isChasing = false;
         }
 
-        // If chasing, move towards the player
         if (isChasing)
         {
             monster.position = Vector3.MoveTowards(monster.position, player.position, speed * Time.deltaTime);
         }
-        // If not chasing, wander around the area
         else
         {
-            Wander();
+            WanderBetweenPoints();
         }
 
-        // If close enough to the player, attack
         if (isChasing && distanceToPlayer < attackRange)
         {
             AttackPlayer();
         }
     }
 
-    private void Wander()
+    private void WanderBetweenPoints()
     {
-        // Move towards the current wander target
-        monster.position = Vector3.MoveTowards(monster.position, wanderTarget, speed * Time.deltaTime);
+        if (currentWanderTarget == null) return;
 
-        // If the monster reaches the wander target, pick a new one
-        if (Vector3.Distance(monster.position, wanderTarget) < 0.5f)
+        monster.position = Vector3.MoveTowards(monster.position, currentWanderTarget.position, speed * Time.deltaTime);
+
+        if (Vector3.Distance(monster.position, currentWanderTarget.position) < 0.5f)
         {
-            SetNewWanderTarget();
+            currentWanderTarget = currentWanderTarget == wanderPointA ? wanderPointB : wanderPointA;
         }
-    }
-
-    private void SetNewWanderTarget()
-    {
-        // Get a random point within the wander range
-        float randomX = Random.Range(-wanderRange, wanderRange);
-        float randomZ = Random.Range(-wanderRange, wanderRange);
-
-        // Set the target position
-        wanderTarget = new Vector3(monster.position.x + randomX, monster.position.y, monster.position.z + randomZ);
-
-        // Optionally, you could add boundary checks here if you want to limit wandering within a specific area.
-        // For example, clamping the target position to a certain area.
     }
 
     private void AttackPlayer()
@@ -126,7 +113,6 @@ public class TheRedMist : MonoBehaviour
         isStunned = true;
         isChasing = false;
 
-        // Lock the movement and rotation of the monster while it's stunned
         if (monsterRigidbody != null)
         {
             monsterRigidbody.constraints = RigidbodyConstraints.FreezeAll; 
@@ -135,7 +121,6 @@ public class TheRedMist : MonoBehaviour
         Debug.Log("HeLeNa? is stunned for " + duration + " seconds.");
         yield return new WaitForSeconds(duration);
 
-        // Unlock the movement and rotation after the stun duration is over
         if (monsterRigidbody != null)
         {
             monsterRigidbody.constraints = RigidbodyConstraints.None; 

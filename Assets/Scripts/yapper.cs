@@ -49,16 +49,16 @@ public class yapper : MonoBehaviour
         isTyping = false;
     }
 
-    void NextLine()
+    public void NextLine()
     {
-        index++;
-        if (index < lines.Length)
+        if (index < lines.Length - 1)
         {
+            index++;
             StartCoroutine(TypeLine());
         }
         else
         {
-            dialogueBox.SetActive(false);
+            dialogueBox.SetActive(false); // Close dialogue box when finished
         }
     }
 }

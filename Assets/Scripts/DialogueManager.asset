@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e404c3f72801a24cbf61a4bc9d8fcdf, type: 3}
-  m_Name: thegreatyap
+  m_Name: DialogueManager
   m_EditorClassIdentifier: 
   lines:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Hello!
+  - This is test dialogue!
+  - Hopefully,
+  - this box won't
+  - be here always!
+  - That's for next week!
+  - Bye!
   - 
   - 
   - 

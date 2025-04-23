@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: DialogueManager
   m_EditorClassIdentifier: 
   lines:
-  - Hello!
-  - This is test dialogue!
-  - Hopefully,
-  - this box won't
-  - be here always!
-  - That's for next week!
-  - Bye!
-  - 
-  - 
-  - 
-  - 
+  - ...
+  - ...
+  - '... '
+  - hElLo.
+  - 'yOu... '
+  - hIt yOuR hEaD.
+  - ...
+  - ...
+  - wAkE uP...
+  - ...
+  - ...
   - 
   - 
   - 

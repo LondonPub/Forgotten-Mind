@@ -21,6 +21,9 @@ public class TheRedMist : MonoBehaviour
 
     private Transform currentWanderTarget;
 
+    private float timeSinceLastChase = 0f;
+    private float maxIdleTime = 25f; // Time before the monster is destroyed when not chasing
+
     private void Start()
     {
         GameObject monsterObj = GameObject.FindGameObjectWithTag("Schizo");
@@ -69,6 +72,7 @@ public class TheRedMist : MonoBehaviour
         else if (distanceToPlayer < detectionRange)
         {
             isChasing = true;
+            timeSinceLastChase = 0f; // Reset idle timer when chasing
         }
         else
         {
@@ -82,11 +86,19 @@ public class TheRedMist : MonoBehaviour
         else
         {
             WanderBetweenPoints();
+            timeSinceLastChase += Time.deltaTime; // Increment idle time when not chasing
         }
 
         if (isChasing && distanceToPlayer < attackRange)
         {
             AttackPlayer();
+        }
+
+        // Destroy the monster if it hasn't chased in the last 'maxIdleTime' seconds
+        if (!isChasing && timeSinceLastChase >= maxIdleTime)
+        {
+            Destroy(monster.gameObject);
+            Debug.Log("Monster destroyed due to inactivity.");
         }
     }
 

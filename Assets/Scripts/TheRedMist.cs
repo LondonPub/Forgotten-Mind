@@ -9,8 +9,8 @@ public class TheRedMist : MonoBehaviour
     public float wanderTime = 3f;
     public LayerMask HidingPlaceLayer;
 
-    public Transform wanderPointA; // First point to wander to
-    public Transform wanderPointB; // Second point to wander to
+    public Transform wanderPointA; 
+    public Transform wanderPointB;
 
     private Transform player;
     private Transform monster;
@@ -22,7 +22,8 @@ public class TheRedMist : MonoBehaviour
     private Transform currentWanderTarget;
 
     private float timeSinceLastChase = 0f;
-    private float maxIdleTime = 25f; // Time before the monster is destroyed when not chasing
+    private float maxIdleTime = 25f;
+    private bool hasEverChased = false; // 🚨 Flag to check if chase has started at least once
 
     private void Start()
     {
@@ -62,7 +63,6 @@ public class TheRedMist : MonoBehaviour
         if (player == null || monster == null || isStunned) return;
 
         float distanceToPlayer = Vector3.Distance(player.position, monster.position);
-
         bool playerIsHiding = playerHidingScript != null && playerHidingScript.IsPlayerHiding();
 
         if (playerIsHiding)
@@ -72,6 +72,7 @@ public class TheRedMist : MonoBehaviour
         else if (distanceToPlayer < detectionRange)
         {
             isChasing = true;
+            hasEverChased = true; // ✅ Set flag on first chase
             timeSinceLastChase = 0f; // Reset idle timer when chasing
         }
         else
@@ -86,19 +87,22 @@ public class TheRedMist : MonoBehaviour
         else
         {
             WanderBetweenPoints();
-            timeSinceLastChase += Time.deltaTime; // Increment idle time when not chasing
+
+            if (hasEverChased)
+            {
+                timeSinceLastChase += Time.deltaTime;
+
+                if (timeSinceLastChase >= maxIdleTime)
+                {
+                    Destroy(monster.gameObject);
+                    Debug.Log("Monster destroyed due to inactivity after chasing.");
+                }
+            }
         }
 
         if (isChasing && distanceToPlayer < attackRange)
         {
             AttackPlayer();
-        }
-
-        // Destroy the monster if it hasn't chased in the last 'maxIdleTime' seconds
-        if (!isChasing && timeSinceLastChase >= maxIdleTime)
-        {
-            Destroy(monster.gameObject);
-            Debug.Log("Monster destroyed due to inactivity.");
         }
     }
 

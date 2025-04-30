@@ -6,18 +6,18 @@ public class yapping : MonoBehaviour
 {
     public Dialogue dialogue;
     private bool playerInRange;
-    private DialogueManager dialogueManager;
-
+    private yapper dialogueManager; // Reference to yapper script
+    
     void Start()
     {
-        dialogueManager = FindObjectOfType<DialogueManager>();
+        dialogueManager = FindObjectOfType<yapper>(); // Find yapper in the scene
     }
 
     void Update()
     {
         if (playerInRange && Input.GetKeyDown(KeyCode.E))
         {
-            dialogueManager.StartDialogue(dialogue);
+            dialogueManager.StartDialogue(dialogue); // Trigger dialogue
         }
     }
 

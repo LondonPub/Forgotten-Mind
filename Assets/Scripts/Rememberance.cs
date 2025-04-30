@@ -9,17 +9,17 @@ public class Rememberance : MonoBehaviour
     {
         if (targetPosition != null && player != null)
         {
-            player.transform.position = targetPosition.position;
+            player.transform.position = targetPosition.position;  
         }
         else
         {
-            Debug.LogWarning("Target position or player is not assigned!");
+            Debug.LogWarning("Target position or player is not assigned!"); 
         }
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) // Ensure the player GameObject is tagged as "Player"
+        if (other.CompareTag("Player")) 
         {
             TeleportPlayer(other.gameObject);
         }

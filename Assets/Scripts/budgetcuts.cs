@@ -2,23 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MonsterDisappear : MonoBehaviour
+public class KMS : MonoBehaviour
 {
-    public float viewTimeThreshold = 3f; // Time the monster must be seen before disappearing
-    public Transform playerCamera;       // Assign this to the player's camera in the inspector
-    public float viewAngleThreshold = 60f; // Field of view threshold in degrees
-
+    public float viewTimeThreshold = 3f; // Seconds the monster must be visible before disappearing
     private float timeSeen = 0f;
-    private Renderer monsterRenderer;
     private bool hasDisappeared = false;
+
+    private Camera mainCamera;
+    private Renderer monsterRenderer;
 
     void Start()
     {
-        if (playerCamera == null)
-        {
-            playerCamera = Camera.main.transform;
-        }
-
+        mainCamera = Camera.main;
         monsterRenderer = GetComponent<Renderer>();
     }
 
@@ -27,10 +22,9 @@ public class MonsterDisappear : MonoBehaviour
         if (hasDisappeared)
             return;
 
-        if (IsSeenByPlayer())
+        if (IsVisibleToMainCamera())
         {
             timeSeen += Time.deltaTime;
-
             if (timeSeen >= viewTimeThreshold)
             {
                 Disappear();
@@ -38,37 +32,29 @@ public class MonsterDisappear : MonoBehaviour
         }
         else
         {
-            timeSeen = 0f; // Reset if no longer seen
+            timeSeen = 0f; // Reset timer if not seen
         }
     }
 
-    bool IsSeenByPlayer()
+    bool IsVisibleToMainCamera()
     {
-        Vector3 directionToMonster = transform.position - playerCamera.position;
-        float angle = Vector3.Angle(playerCamera.forward, directionToMonster);
-
-        if (angle > viewAngleThreshold)
+        if (!monsterRenderer.isVisible)
             return false;
 
-        Ray ray = new Ray(playerCamera.position, directionToMonster.normalized);
-        RaycastHit hit;
+        // Confirm the monster is actually in view of the *main* camera using viewport space
+        Vector3 viewportPoint = mainCamera.WorldToViewportPoint(transform.position);
 
-        if (Physics.Raycast(ray, out hit))
-        {
-            if (hit.transform == transform)
-            {
-                return true;
-            }
-        }
+        bool inView = viewportPoint.z > 0 && // In front of camera
+                      viewportPoint.x >= 0 && viewportPoint.x <= 1 &&
+                      viewportPoint.y >= 0 && viewportPoint.y <= 1;
 
-        return false;
+        return inView;
     }
 
     void Disappear()
     {
         hasDisappeared = true;
-        gameObject.SetActive(false); // Or use Destroy(gameObject) if permanent
-        Debug.Log("Monster disappeared after being seen for 3 seconds.");
+        gameObject.SetActive(false); // Or use Destroy(gameObject) for permanent removal
+        Debug.Log("Monster disappeared after being seen by the main camera for 3 seconds.");
     }
 }
-

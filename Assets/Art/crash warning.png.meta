@@ -1906,7 +1906,82 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crash warning_0: -680207062884804198
+      crash warning_1: -5500410153971252801
+      crash warning_10: 6498250871535475999
+      crash warning_11: -402064070291632911
+      crash warning_12: -7180408316064943504
+      crash warning_13: 6127385301536824520
+      crash warning_14: -4558751545407790676
+      crash warning_15: -1841945328896291779
+      crash warning_16: 5816333963069281348
+      crash warning_17: 8171252135664259067
+      crash warning_18: -7783270181359682759
+      crash warning_19: 4853166237518470934
+      crash warning_2: 2399454808997417813
+      crash warning_20: 1200910736061912660
+      crash warning_21: 6084927670565372741
+      crash warning_22: -3072363100582248438
+      crash warning_23: 6502895794378029705
+      crash warning_24: -5366457867799822609
+      crash warning_25: -8910505331372573681
+      crash warning_26: -7320283183645109550
+      crash warning_27: -6937419091542020295
+      crash warning_28: -4312916166951977782
+      crash warning_29: -4620566596431644394
+      crash warning_3: -4931717669857558234
+      crash warning_30: 6865602080861135870
+      crash warning_31: -7893362625559555839
+      crash warning_32: 4534352034386835038
+      crash warning_33: -1888788137101096764
+      crash warning_34: 4185851903952903957
+      crash warning_35: 2305407046432003164
+      crash warning_36: -5089145039287775763
+      crash warning_37: -9000642121311802620
+      crash warning_38: 7182562300940777933
+      crash warning_39: -6886124686506978483
+      crash warning_4: 6894496867888289172
+      crash warning_40: 3978173030035376406
+      crash warning_41: 7643051373009341292
+      crash warning_42: 4959002233195921439
+      crash warning_43: -5001109606767235314
+      crash warning_44: -2100158020898705697
+      crash warning_45: -5909745477168661448
+      crash warning_46: -8834430190620042536
+      crash warning_47: -2014966499102193589
+      crash warning_48: 2288626413643993458
+      crash warning_49: 3528542282215713329
+      crash warning_5: -4688307983753560152
+      crash warning_50: -4606726644764918083
+      crash warning_51: -3581912527439654650
+      crash warning_52: -7320879295858726871
+      crash warning_53: -5567642448897498468
+      crash warning_54: -4220675147627675599
+      crash warning_55: 7795812720112991839
+      crash warning_56: -8325507990077257907
+      crash warning_57: 100756130114203816
+      crash warning_58: -4855479687525930154
+      crash warning_59: -536032893054574622
+      crash warning_6: 1643592394264708830
+      crash warning_60: -2475018422635835218
+      crash warning_61: 2649601901999286959
+      crash warning_62: 5661439330553190933
+      crash warning_63: -4437099091654705377
+      crash warning_64: 5643317635753736180
+      crash warning_65: -7363818910330692359
+      crash warning_66: -8772573427565207280
+      crash warning_67: 5713286604205019126
+      crash warning_68: -447494966343554565
+      crash warning_69: -6759388703001529969
+      crash warning_7: 6841212925608738418
+      crash warning_70: 2169865479768364358
+      crash warning_71: 411398492125921496
+      crash warning_72: -6745984031825095032
+      crash warning_73: -2559518176139044051
+      crash warning_74: 6002833177365156752
+      crash warning_8: 8389922384434277770
+      crash warning_9: 3021956620423056153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

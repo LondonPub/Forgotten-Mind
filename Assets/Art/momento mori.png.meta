@@ -418,7 +418,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      momento mori_0: -4220207026300329235
+      momento mori_1: -6012433943169173523
+      momento mori_10: 891177958622386288
+      momento mori_11: -5701165703604761292
+      momento mori_12: -3838873107212508671
+      momento mori_2: -3725379274387781477
+      momento mori_3: -5642527962844318185
+      momento mori_4: 2452441771811898992
+      momento mori_5: 5743602194795345824
+      momento mori_6: -2568749989938225277
+      momento mori_7: -1283636648796784716
+      momento mori_8: -9130272199056651097
+      momento mori_9: -3060825576794976539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

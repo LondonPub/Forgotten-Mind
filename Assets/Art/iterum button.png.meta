@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 86b3d518d2dac2047915332dc74c8d4f
+guid: 58ddb209f9fc47745a7ef87dfc5cdafb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2530564911472380330
-    second: button_0
+      213: 1280299942040240984
+    second: iterum button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: button_0
+      name: iterum button_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 522
-        height: 209
+        width: 594
+        height: 198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa90165216f5e1320800000000000000
-      internalID: 2530564911472380330
+      spriteID: 8530343930a84c110800000000000000
+      internalID: 1280299942040240984
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      button_0: 2530564911472380330
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

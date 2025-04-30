@@ -13,7 +13,7 @@ public class MovingNShi : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        //animator = GetComponent<Animator>(); // Get the Animator component
+        animator = GetComponent<Animator>(); // Get the Animator component
     }
 
     void Update()
@@ -28,19 +28,17 @@ public class MovingNShi : MonoBehaviour
         float speed = rb.velocity.magnitude;
 
         // Update the Animator's Speed parameter
-        animator.SetFloat("Speed" ,Mathf.Abs(horizontalInput));
-
-        // Update the Animator's Horizontal parameter
-        //animator.SetFloat("Horizontal", horizontalInput);
+        animator.SetFloat("Speed", speed);
 
         // Flip the player sprite based on horizontal movement
+        Vector3 currentScale = transform.localScale; // Get the current scale
         if (horizontalInput > 0)
         {
-            transform.localScale = new Vector3(1, 1, 1); // Face right
+            transform.localScale = new Vector3(Mathf.Abs(currentScale.x), currentScale.y, currentScale.z); // Face right
         }
         else if (horizontalInput < 0)
         {
-            transform.localScale = new Vector3(-1, 1, 1); // Face left
+            transform.localScale = new Vector3(-Mathf.Abs(currentScale.x), currentScale.y, currentScale.z); // Face left
         }
     }
 }

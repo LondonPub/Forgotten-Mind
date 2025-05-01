@@ -13,9 +13,8 @@ GameObject:
   - component: {fileID: 234310841545761120}
   - component: {fileID: 940799233396812820}
   - component: {fileID: 1103626201610595845}
-  - component: {fileID: 2395667816517657616}
   - component: {fileID: 4212833757616954550}
-  - component: {fileID: 4438281421029506217}
+  - component: {fileID: 7502301554700537117}
   m_Layer: 0
   m_Name: Helena
   m_TagString: Player
@@ -32,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 811904723897137687}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 29.3, y: -0.15000007, z: 0}
+  m_LocalPosition: {x: -21.01, y: -1.66, z: 0}
   m_LocalScale: {x: 2.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -163,18 +162,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b841b315359bd2749827a45a1a5918b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2395667816517657616
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811904723897137687}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e34add7886e2cbf4b92ee1d54c73038f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &4212833757616954550
 Rigidbody2D:
   serializedVersion: 4
@@ -202,7 +189,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &4438281421029506217
+--- !u!114 &7502301554700537117
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -214,6 +201,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f478def0a58b75e499b8eb247e675eaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
-  animator: {fileID: 0}
-  maxVelocity: 25
+  moveSpeed: 5

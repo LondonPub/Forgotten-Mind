@@ -3,39 +3,42 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlatformerMovement : MonoBehaviour
-{ 
-    public float moveSpeed = 5f;
-
+public class MovingNShi : MonoBehaviour
+{
     private Rigidbody2D rb;
+    private Animator animator; // Reference to the Animator
 
-    // Start is called before the first frame update
-    public Animator animator;
-
-    float horizontalMovement = 0f;
-
-    public float maxVelocity = 25f;
+    public float moveSpeed = 5.0f;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>(); // Get the Animator component
     }
 
-    // Update is called once per frame
     void Update()
     {
-        // Code for horizontal movement
         float horizontalInput = Input.GetAxis("Horizontal");
-        horizontalMovement = horizontalInput * moveSpeed;
-        Vector2 moveVector = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
+        float verticalInput = Input.GetAxis("Vertical");
 
-        rb.velocity = moveVector;
+        // Set the velocity of the Rigidbody
+        rb.velocity = new Vector2(horizontalInput, verticalInput) * moveSpeed;
 
+        // Calculate the speed (magnitude of movement)
+        float speed = rb.velocity.magnitude;
 
-        // Clamp velocity to the max value
-        if(rb.velocity.magnitude > maxVelocity)
+        // Update the Animator's Speed parameter
+        animator.SetFloat("Speed", speed);
+
+        // Flip the player sprite based on horizontal movement
+        Vector3 currentScale = transform.localScale; // Get the current scale
+        if (horizontalInput > 0)
         {
-            rb.velocity = Vector2.ClampMagnitude(rb.velocity, maxVelocity);
+            transform.localScale = new Vector3(Mathf.Abs(currentScale.x), currentScale.y, currentScale.z); // Face right
+        }
+        else if (horizontalInput < 0)
+        {
+            transform.localScale = new Vector3(-Mathf.Abs(currentScale.x), currentScale.y, currentScale.z); // Face left
         }
     }
 }

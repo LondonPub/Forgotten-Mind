@@ -9,6 +9,12 @@ TagManager:
   - Checkpoint
   - Schizo
   - HidingPlace
+  - Mirror
+  - Mirror2
+  - Mirror3
+  - Win
+  - Devroom
+  - Bingus
   layers:
   - Default
   - TransparentFX

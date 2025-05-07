@@ -394,7 +394,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      you escaped text_0: -2067409933680238923
+      you escaped text_1: -7696428586480979817
+      you escaped text_10: -6078228232171670090
+      you escaped text_11: -6385262173282408314
+      you escaped text_2: -5950727767341109693
+      you escaped text_3: 4446769170193520276
+      you escaped text_4: 1059708333913272899
+      you escaped text_5: 2259724721377587197
+      you escaped text_6: -1874682539376408081
+      you escaped text_7: 4933107374035073467
+      you escaped text_8: -6936129815946363372
+      you escaped text_9: -1292046290025206795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

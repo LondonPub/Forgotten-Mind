@@ -1,57 +1,56 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MirrorsNShi : MonoBehaviour
 {
-    private SceneLoader sceneLoader; // Reference to the SceneLoader script
-
-    private void Start()
-    {
-        // Find the SceneLoader in the scene
-        sceneLoader = FindObjectOfType<SceneLoader>();
-        if (sceneLoader == null)
-        {
-            Debug.LogError("SceneLoader not found in the scene!");
-        }
-    }
+    private string sceneToLoad = null; // Stores the scene to load when 'L' is pressed
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Triggered by: " + other.gameObject.name);
+        Debug.Log($"Triggered by: {other.gameObject.name}");
 
-        if (sceneLoader == null) return; // Ensure SceneLoader is assigned
+        // Check if the colliding object has a valid tag and set the scene to load
+        switch (other.gameObject.tag)
+        {
+            case "Mirror":
+                sceneToLoad = "Level 2";
+                break;
+            case "Mirror2":
+                sceneToLoad = "Level 3";
+                break;
+            case "Mirror3":
+                sceneToLoad = "Level 4";
+                break;
+            case "Mirror4":
+                sceneToLoad = "Devroom";
+                break;
+            case "MirrorD":
+                sceneToLoad = "Bingusroom";
+                break;
+            default:
+                Debug.LogWarning($"No scene associated with tag: {other.gameObject.tag}");
+                sceneToLoad = null; // Reset sceneToLoad if the tag is invalid
+                break;
+        }
+    }
 
-        if (other.gameObject.CompareTag("Mirror"))
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        // Reset the sceneToLoad when the player exits the trigger zone
+        if (other.CompareTag("Mirror") || other.CompareTag("Mirror2") || other.CompareTag("Mirror3") || other.CompareTag("Mirror4") || other.CompareTag("MirrorD"))
         {
-            Debug.Log("Loading scene: Level 2");
-            sceneLoader.LoadScene("Level 2");
+            Debug.Log($"Exited trigger zone of: {other.gameObject.name}");
+            sceneToLoad = null;
         }
-        else if (other.gameObject.CompareTag("Mirror2"))
+    }
+
+    private void Update()
+    {
+        // Check if 'L' is pressed and a valid scene is set to load
+        if (Input.GetKeyDown(KeyCode.L) && sceneToLoad != null)
         {
-            Debug.Log("Loading scene: Level 3");
-            sceneLoader.LoadScene("Level 3");
-        }
-        else if (other.gameObject.CompareTag("Mirror3"))
-        {
-            Debug.Log("Loading scene: Level 4");
-            sceneLoader.LoadScene("Level 4");
-        }
-        else if (other.gameObject.CompareTag("Win"))
-        {
-            Debug.Log("Loading scene: Winscreen");
-            sceneLoader.LoadScene("Winscreen");
-        }
-        else if (other.gameObject.CompareTag("Devroom"))
-        {
-            Debug.Log("Loading scene: Devroom");
-            sceneLoader.LoadScene("Devroom");
-        }
-        else if (other.gameObject.CompareTag("Bingus"))
-        {
-            Debug.Log("Loading scene: Bingusroom");
-            sceneLoader.LoadScene("Bingusroom");
+            Debug.Log($"Loading scene: {sceneToLoad}");
+            SceneManager.LoadScene(sceneToLoad);
         }
     }
 }

@@ -1,355 +1,352 @@
 fileFormatVersion: 2
-guid: 218126b12ba1c7b478ae8f5e5f4abf87
+guid: e47dc6c878d0d774c98faac5ebb3a246
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 202155700445372943
-    second: Credits Text_0
+      213: -7918350141919963089
+    second: credits text 2_0
   - first:
-      213: 405228293785224890
-    second: Credits Text_1
+      213: -4978947513203406339
+    second: credits text 2_1
   - first:
-      213: -5571585598702112378
-    second: Credits Text_2
+      213: 4669545979531066145
+    second: credits text 2_2
   - first:
-      213: 4442834716601244541
-    second: Credits Text_3
+      213: -3436416615565008817
+    second: credits text 2_3
   - first:
-      213: -1263710676511583899
-    second: Credits Text_4
+      213: 8111066365848200176
+    second: credits text 2_4
   - first:
-      213: -7981701931817989993
-    second: Credits Text_5
+      213: -1189545043461015966
+    second: credits text 2_5
   - first:
-      213: 479328664444889762
-    second: Credits Text_6
+      213: -853057653237842775
+    second: credits text 2_6
   - first:
-      213: -8194440469322792472
-    second: Credits Text_7
+      213: 7538360738572736703
+    second: credits text 2_7
   - first:
-      213: -1513594746484837920
-    second: Credits Text_8
+      213: 5321029811926613143
+    second: credits text 2_8
   - first:
-      213: 4015629779715561231
-    second: Credits Text_9
+      213: 5756801762187175634
+    second: credits text 2_9
   - first:
-      213: -4836910943165045699
-    second: Credits Text_10
+      213: -7252989455333069545
+    second: credits text 2_10
   - first:
-      213: -2115598810338914579
-    second: Credits Text_11
+      213: -5798563003009576578
+    second: credits text 2_11
   - first:
-      213: 9134272583714058285
-    second: Credits Text_12
+      213: 4957208143703500790
+    second: credits text 2_12
   - first:
-      213: 2381777638638209728
-    second: Credits Text_13
+      213: -6451142319284082914
+    second: credits text 2_13
   - first:
-      213: -7843214306037959204
-    second: Credits Text_14
+      213: -6656993043769392799
+    second: credits text 2_14
   - first:
-      213: -2004034061742017431
-    second: Credits Text_15
+      213: 8316503861684788771
+    second: credits text 2_15
   - first:
-      213: 4476271977762284315
-    second: Credits Text_16
+      213: -310176554823526478
+    second: credits text 2_16
   - first:
-      213: -302553948847774947
-    second: Credits Text_17
+      213: -7014921521489081448
+    second: credits text 2_17
   - first:
-      213: -6089756905628113326
-    second: Credits Text_18
+      213: -4048432321610154179
+    second: credits text 2_18
   - first:
-      213: -2737062732612500246
-    second: Credits Text_19
+      213: 3070380426849823813
+    second: credits text 2_19
   - first:
-      213: -1216373394682501555
-    second: Credits Text_20
+      213: 6804355250977694523
+    second: credits text 2_20
   - first:
-      213: -6540070431093457074
-    second: Credits Text_21
+      213: -1240018790447791628
+    second: credits text 2_21
   - first:
-      213: 4961035542029462890
-    second: Credits Text_22
+      213: 8008848002882902370
+    second: credits text 2_22
   - first:
-      213: 1484246169279479545
-    second: Credits Text_23
+      213: 7644725089022806029
+    second: credits text 2_23
   - first:
-      213: 226769068370058205
-    second: Credits Text_24
+      213: -4066635798445305086
+    second: credits text 2_24
   - first:
-      213: 352025894388766738
-    second: Credits Text_25
+      213: -132863735260070512
+    second: credits text 2_25
   - first:
-      213: -6881640217790405642
-    second: Credits Text_26
+      213: -4896940506379460394
+    second: credits text 2_26
   - first:
-      213: -6271078507655158682
-    second: Credits Text_27
+      213: 6122080184623103399
+    second: credits text 2_27
   - first:
-      213: 994615507500618410
-    second: Credits Text_28
+      213: 197066460700775754
+    second: credits text 2_28
   - first:
-      213: -2165697822183572996
-    second: Credits Text_29
+      213: 9082158348884523107
+    second: credits text 2_29
   - first:
-      213: 2788775217050369456
-    second: Credits Text_30
+      213: 6753965991621830992
+    second: credits text 2_30
   - first:
-      213: -7337631329455371244
-    second: Credits Text_31
+      213: 7316277499327519339
+    second: credits text 2_31
   - first:
-      213: 8020967994019819830
-    second: Credits Text_32
+      213: 4863521839743439368
+    second: credits text 2_32
   - first:
-      213: 6450198858822807517
-    second: Credits Text_33
+      213: -1574505760958571424
+    second: credits text 2_33
   - first:
-      213: -8064661311479811628
-    second: Credits Text_34
+      213: -6513750172386052246
+    second: credits text 2_34
   - first:
-      213: 5896089484654529764
-    second: Credits Text_35
+      213: -9048541729794113381
+    second: credits text 2_35
   - first:
-      213: 2130708024223659491
-    second: Credits Text_36
+      213: -4105836554168081673
+    second: credits text 2_36
   - first:
-      213: -4066303631939714979
-    second: Credits Text_37
+      213: 3218060481281398959
+    second: credits text 2_37
   - first:
-      213: 5625576980117676817
-    second: Credits Text_38
+      213: 5104503142176403531
+    second: credits text 2_38
   - first:
-      213: 6123007509902914614
-    second: Credits Text_39
+      213: -3426866759216159351
+    second: credits text 2_39
   - first:
-      213: -339581604429322922
-    second: Credits Text_40
+      213: -786819461973167179
+    second: credits text 2_40
   - first:
-      213: 4953874004215666768
-    second: Credits Text_41
+      213: 1675113382569282841
+    second: credits text 2_41
   - first:
-      213: -845950191288716534
-    second: Credits Text_42
+      213: -5237096457179052940
+    second: credits text 2_42
   - first:
-      213: 1985281683579051122
-    second: Credits Text_43
+      213: -4702514934956118684
+    second: credits text 2_43
   - first:
-      213: 6073555257493735869
-    second: Credits Text_44
+      213: 9213025626892131714
+    second: credits text 2_44
   - first:
-      213: -8435486610196097984
-    second: Credits Text_45
+      213: 6754881804714526337
+    second: credits text 2_45
   - first:
-      213: 3210114545851852402
-    second: Credits Text_46
+      213: -7489082426086771382
+    second: credits text 2_46
   - first:
-      213: -1069904397756083285
-    second: Credits Text_47
+      213: 5039267889394491683
+    second: credits text 2_47
   - first:
-      213: -3302592122713534455
-    second: Credits Text_48
+      213: -3003249615456002193
+    second: credits text 2_48
   - first:
-      213: -5678276958606308384
-    second: Credits Text_49
+      213: 8660168742150591988
+    second: credits text 2_49
   - first:
-      213: -1520943513016830533
-    second: Credits Text_50
+      213: 817509450637883111
+    second: credits text 2_50
   - first:
-      213: -1447155035178846028
-    second: Credits Text_51
+      213: 3891132482584325042
+    second: credits text 2_51
   - first:
-      213: -1026880643477403736
-    second: Credits Text_52
+      213: 1261191312681728559
+    second: credits text 2_52
   - first:
-      213: -6015657913446897899
-    second: Credits Text_53
+      213: 5939893566565492492
+    second: credits text 2_53
   - first:
-      213: -5141217715981646628
-    second: Credits Text_54
+      213: -2254459609717981882
+    second: credits text 2_54
   - first:
-      213: 7642945286778244575
-    second: Credits Text_55
+      213: -7942935527899899452
+    second: credits text 2_55
   - first:
-      213: 6049277250904171696
-    second: Credits Text_56
+      213: 3604969440314250711
+    second: credits text 2_56
   - first:
-      213: 776151837150834785
-    second: Credits Text_57
+      213: 470553287292841745
+    second: credits text 2_57
   - first:
-      213: -1537379417577295448
-    second: Credits Text_58
+      213: 5684244036121926422
+    second: credits text 2_58
   - first:
-      213: 3360139091183980404
-    second: Credits Text_59
+      213: 4291370256845792506
+    second: credits text 2_59
   - first:
-      213: -6833454082768384430
-    second: Credits Text_60
+      213: 8945394344500566054
+    second: credits text 2_60
   - first:
-      213: 7713555073591485059
-    second: Credits Text_61
+      213: -671163507420095568
+    second: credits text 2_61
   - first:
-      213: -3437370257365818501
-    second: Credits Text_62
+      213: 3539575662287107463
+    second: credits text 2_62
   - first:
-      213: -7019479919048114984
-    second: Credits Text_63
+      213: 6520910031940055518
+    second: credits text 2_63
   - first:
-      213: 6375353842504041983
-    second: Credits Text_64
+      213: -7738768137091114156
+    second: credits text 2_64
   - first:
-      213: -1138192150841020655
-    second: Credits Text_65
+      213: -628445899283639131
+    second: credits text 2_65
   - first:
-      213: 2469631023226105106
-    second: Credits Text_66
+      213: -4777364391906234983
+    second: credits text 2_66
   - first:
-      213: -8644641071135819186
-    second: Credits Text_67
+      213: -3793148170525848561
+    second: credits text 2_67
   - first:
-      213: 3659400054093220551
-    second: Credits Text_68
+      213: 3229896393953363376
+    second: credits text 2_68
   - first:
-      213: -6843162374689983051
-    second: Credits Text_69
+      213: -8507870123727051297
+    second: credits text 2_69
   - first:
-      213: 990786131317904181
-    second: Credits Text_70
+      213: 5101585884290562612
+    second: credits text 2_70
   - first:
-      213: 3977106308889237982
-    second: Credits Text_71
+      213: 8860450572867867017
+    second: credits text 2_71
   - first:
-      213: -1681045061445868120
-    second: Credits Text_72
+      213: -2914183215700839062
+    second: credits text 2_72
   - first:
-      213: 1905896642821750931
-    second: Credits Text_73
+      213: 8704419100472489875
+    second: credits text 2_73
   - first:
-      213: -5251534299359826970
-    second: Credits Text_74
+      213: -2568621216186096064
+    second: credits text 2_74
   - first:
-      213: 7678945749931160950
-    second: Credits Text_75
+      213: -398112615922740106
+    second: credits text 2_75
   - first:
-      213: 819432166790216242
-    second: Credits Text_76
+      213: -7017349224683415216
+    second: credits text 2_76
   - first:
-      213: 1569782014537910064
-    second: Credits Text_77
+      213: -1013823342993264304
+    second: credits text 2_77
   - first:
-      213: 1820548369657673737
-    second: Credits Text_78
+      213: 477153199724625086
+    second: credits text 2_78
   - first:
-      213: 706427973337228288
-    second: Credits Text_79
+      213: -5846718687815341002
+    second: credits text 2_79
   - first:
-      213: -8968417270440185764
-    second: Credits Text_80
+      213: -7920538253129204502
+    second: credits text 2_80
   - first:
-      213: -5833340376216809488
-    second: Credits Text_81
+      213: 5177173459099179006
+    second: credits text 2_81
   - first:
-      213: 4704673557956166806
-    second: Credits Text_82
+      213: -1743685623209854519
+    second: credits text 2_82
   - first:
-      213: 1673661209715886691
-    second: Credits Text_83
+      213: -3902182801009540053
+    second: credits text 2_83
   - first:
-      213: -3916931138479966533
-    second: Credits Text_84
+      213: 7837447687193137138
+    second: credits text 2_84
   - first:
-      213: 5571330810199060521
-    second: Credits Text_85
+      213: 8019876188962636026
+    second: credits text 2_85
   - first:
-      213: -6395873991388164724
-    second: Credits Text_86
+      213: 3687165811445340170
+    second: credits text 2_86
   - first:
-      213: -3119661413888447136
-    second: Credits Text_87
+      213: -8305349145878848645
+    second: credits text 2_87
   - first:
-      213: 4980387632543356785
-    second: Credits Text_88
+      213: -405830219348015160
+    second: credits text 2_88
   - first:
-      213: 585472059792679284
-    second: Credits Text_89
+      213: -1901744964687907465
+    second: credits text 2_89
   - first:
-      213: -936651062007900223
-    second: Credits Text_90
+      213: -9077988352254880103
+    second: credits text 2_90
   - first:
-      213: 5904479577348697419
-    second: Credits Text_91
+      213: 2984786541227278017
+    second: credits text 2_91
   - first:
-      213: -4179402390142469880
-    second: Credits Text_92
+      213: 3101166497304731470
+    second: credits text 2_92
   - first:
-      213: -754684830403327487
-    second: Credits Text_93
+      213: 7278567968809021573
+    second: credits text 2_93
   - first:
-      213: -3084963097610368720
-    second: Credits Text_94
+      213: -8401514876960432475
+    second: credits text 2_94
   - first:
-      213: 369774596978219118
-    second: Credits Text_95
+      213: 5838309605368524731
+    second: credits text 2_95
   - first:
-      213: 5341813068771691427
-    second: Credits Text_96
+      213: -52499072928809033
+    second: credits text 2_96
   - first:
-      213: -9173919926428390216
-    second: Credits Text_97
+      213: 2233127356250957586
+    second: credits text 2_97
   - first:
-      213: 2698037319032124295
-    second: Credits Text_98
+      213: -3770899929225907933
+    second: credits text 2_98
   - first:
-      213: -7010512688117403888
-    second: Credits Text_99
+      213: -9135786669047796654
+    second: credits text 2_99
   - first:
-      213: 3320259227912415309
-    second: Credits Text_100
+      213: -8646484302378774359
+    second: credits text 2_100
   - first:
-      213: 4294306877059755052
-    second: Credits Text_101
+      213: 7360999624686595988
+    second: credits text 2_101
   - first:
-      213: -5721753295706557218
-    second: Credits Text_102
+      213: 4022688178727990069
+    second: credits text 2_102
   - first:
-      213: -6934850228445221503
-    second: Credits Text_103
+      213: -4505292669817618312
+    second: credits text 2_103
   - first:
-      213: -797104519254092266
-    second: Credits Text_104
+      213: -4190993200800147391
+    second: credits text 2_104
   - first:
-      213: 3306354761449639272
-    second: Credits Text_105
+      213: 8914067466746680158
+    second: credits text 2_105
   - first:
-      213: 6133097302291773321
-    second: Credits Text_106
+      213: -8185565716431707263
+    second: credits text 2_106
   - first:
-      213: 6997512114285796311
-    second: Credits Text_107
+      213: -4184963232862824366
+    second: credits text 2_107
   - first:
-      213: 7105686792205410665
-    second: Credits Text_108
+      213: -3453450085336299214
+    second: credits text 2_108
   - first:
-      213: -3610959634178352234
-    second: Credits Text_109
+      213: 6497357420596925681
+    second: credits text 2_109
   - first:
-      213: 6817965341781390847
-    second: Credits Text_110
+      213: -5549859663484626545
+    second: credits text 2_110
   - first:
-      213: 3790765795349468896
-    second: Credits Text_111
+      213: -4231333980686817281
+    second: credits text 2_111
   - first:
-      213: 4115951975636676048
-    second: Credits Text_112
+      213: -7974987968969821430
+    second: credits text 2_112
   - first:
-      213: 5061235095557062257
-    second: Credits Text_113
+      213: -6135188777370817413
+    second: credits text 2_113
   - first:
-      213: -5702776974888499871
-    second: Credits Text_114
-  - first:
-      213: -7480541990095032749
-    second: Credits Text_115
+      213: -8433491691192628198
+    second: credits text 2_114
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -445,7 +442,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Credits Text_0
+      name: credits text 2_0
       rect:
         serializedVersion: 2
         x: 428
@@ -459,14 +456,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f02ed5ad9833ec200800000000000000
-      internalID: 202155700445372943
+      spriteID: f2852b7cf7e5c1290800000000000000
+      internalID: -7918350141919963089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_1
+      name: credits text 2_1
       rect:
         serializedVersion: 2
         x: 729
@@ -480,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab681087cf8af9500800000000000000
-      internalID: 405228293785224890
+      spriteID: df94238cd9937eab0800000000000000
+      internalID: -4978947513203406339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_2
+      name: credits text 2_2
       rect:
         serializedVersion: 2
         x: 860
@@ -501,14 +498,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 681bda1ea60cda2b0800000000000000
-      internalID: -5571585598702112378
+      spriteID: 12b7d4cf35f8dc040800000000000000
+      internalID: 4669545979531066145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_3
+      name: credits text 2_3
       rect:
         serializedVersion: 2
         x: 896
@@ -522,14 +519,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7b5ac6b2ae18ad30800000000000000
-      internalID: 4442834716601244541
+      spriteID: f406ff88b456f40d0800000000000000
+      internalID: -3436416615565008817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_4
+      name: credits text 2_4
       rect:
         serializedVersion: 2
         x: 568
@@ -543,14 +540,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 56198abc5d5667ee0800000000000000
-      internalID: -1263710676511583899
+      spriteID: 0f3200ea2eb409070800000000000000
+      internalID: 8111066365848200176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_5
+      name: credits text 2_5
       rect:
         serializedVersion: 2
         x: 642
@@ -564,14 +561,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79880f2c16c4b3190800000000000000
-      internalID: -7981701931817989993
+      spriteID: 266fd20e513ed7fe0800000000000000
+      internalID: -1189545043461015966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_6
+      name: credits text 2_6
       rect:
         serializedVersion: 2
         x: 823
@@ -585,14 +582,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2aa66e671eae6a600800000000000000
-      internalID: 479328664444889762
+      spriteID: 9ac74d585945924f0800000000000000
+      internalID: -853057653237842775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_7
+      name: credits text 2_7
       rect:
         serializedVersion: 2
         x: 982
@@ -606,20 +603,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8e10ee42fcf774e80800000000000000
-      internalID: -8194440469322792472
+      spriteID: fb8116bd623ad9860800000000000000
+      internalID: 7538360738572736703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_8
+      name: credits text 2_8
       rect:
         serializedVersion: 2
-        x: 282
-        y: 634
-        width: 52
-        height: 64
+        x: 328
+        y: 633
+        width: 35
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,19 +624,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e1bfd1f891aefae0800000000000000
-      internalID: -1513594746484837920
+      spriteID: 79c36230c6818d940800000000000000
+      internalID: 5321029811926613143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_9
+      name: credits text 2_9
       rect:
         serializedVersion: 2
-        x: 335
+        x: 363
         y: 633
-        width: 39
+        width: 33
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -648,20 +645,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f071d6942026ab730800000000000000
-      internalID: 4015629779715561231
+      spriteID: 2d6628da3b444ef40800000000000000
+      internalID: 5756801762187175634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_10
+      name: credits text 2_10
       rect:
         serializedVersion: 2
-        x: 375
+        x: 397
         y: 634
-        width: 39
-        height: 46
+        width: 27
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -669,41 +666,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d34a27ecf17dfdcb0800000000000000
-      internalID: -4836910943165045699
+      spriteID: 71de733b484385b90800000000000000
+      internalID: -7252989455333069545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_11
+      name: credits text 2_11
       rect:
         serializedVersion: 2
-        x: 415
-        y: 633
-        width: 39
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dee82864712e3a2e0800000000000000
-      internalID: -2115598810338914579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Credits Text_12
-      rect:
-        serializedVersion: 2
-        x: 458
+        x: 425
         y: 634
-        width: 12
-        height: 64
+        width: 14
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -711,38 +687,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d20bdd9f48473ce70800000000000000
-      internalID: 9134272583714058285
+      spriteID: e7154edbbad578fa0800000000000000
+      internalID: -5798563003009576578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_13
+      name: credits text 2_12
       rect:
         serializedVersion: 2
-        x: 473
-        y: 633
-        width: 42
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cacff4a426cd0120800000000000000
-      internalID: 2381777638638209728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Credits Text_14
-      rect:
-        serializedVersion: 2
-        x: 517
+        x: 443
         y: 621
         width: 44
         height: 60
@@ -753,17 +708,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd5785fc42e472390800000000000000
-      internalID: -7843214306037959204
+      spriteID: 6f7ee13da8a8bc440800000000000000
+      internalID: 4957208143703500790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_15
+      name: credits text 2_13
       rect:
         serializedVersion: 2
-        x: 561
+        x: 486
+        y: 633
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17259f7d30f876a0800000000000000
+      internalID: -6451142319284082914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: credits text 2_14
+      rect:
+        serializedVersion: 2
+        x: 515
         y: 633
         width: 39
         height: 48
@@ -774,17 +750,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 964751083ad3034e0800000000000000
-      internalID: -2004034061742017431
+      spriteID: 16101e1d81c9d93a0800000000000000
+      internalID: -6656993043769392799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_16
+      name: credits text 2_15
       rect:
         serializedVersion: 2
-        x: 601
+        x: 555
         y: 634
         width: 27
         height: 47
@@ -795,17 +771,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b136e80c5a9ee1e30800000000000000
-      internalID: 4476271977762284315
+      spriteID: 32ed2e013382a6370800000000000000
+      internalID: 8316503861684788771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_17
+      name: credits text 2_16
       rect:
         serializedVersion: 2
-        x: 628
+        x: 583
         y: 654
         width: 14
         height: 20
@@ -816,17 +792,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d13698959cc1dcbf0800000000000000
-      internalID: -302553948847774947
+      spriteID: 2b7d618111802bbf0800000000000000
+      internalID: -310176554823526478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_18
+      name: credits text 2_17
       rect:
         serializedVersion: 2
-        x: 663
+        x: 617
         y: 634
         width: 44
         height: 64
@@ -837,17 +813,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 256ed87fb56dc7ba0800000000000000
-      internalID: -6089756905628113326
+      spriteID: 89b8668fa0ef5ae90800000000000000
+      internalID: -7014921521489081448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_19
+      name: credits text 2_18
       rect:
         serializedVersion: 2
-        x: 707
+        x: 661
         y: 634
         width: 39
         height: 65
@@ -858,17 +834,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae40cae32fff30ad0800000000000000
-      internalID: -2737062732612500246
+      spriteID: d3f7735c04411d7c0800000000000000
+      internalID: -4048432321610154179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_20
+      name: credits text 2_19
       rect:
         serializedVersion: 2
-        x: 748
+        x: 703
         y: 633
         width: 42
         height: 48
@@ -879,17 +855,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d46a6b797d29e1fe0800000000000000
-      internalID: -1216373394682501555
+      spriteID: 54c22bb0bbe2c9a20800000000000000
+      internalID: 3070380426849823813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_21
+      name: credits text 2_20
       rect:
         serializedVersion: 2
-        x: 791
+        x: 746
         y: 634
         width: 65
         height: 46
@@ -900,17 +876,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4f73acf7900d35a0800000000000000
-      internalID: -6540070431093457074
+      spriteID: b33e61cbc0ded6e50800000000000000
+      internalID: 6804355250977694523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_22
+      name: credits text 2_21
       rect:
         serializedVersion: 2
-        x: 859
+        x: 813
         y: 633
         width: 44
         height: 48
@@ -921,17 +897,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6de0c07a8329d440800000000000000
-      internalID: 4961035542029462890
+      spriteID: 4f1cc80ea719acee0800000000000000
+      internalID: -1240018790447791628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_23
+      name: credits text 2_22
       rect:
         serializedVersion: 2
-        x: 904
+        x: 858
         y: 633
         width: 24
         height: 48
@@ -942,17 +918,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9fe332fe60a199410800000000000000
-      internalID: 1484246169279479545
+      spriteID: 2699eef63d4252f60800000000000000
+      internalID: 8008848002882902370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_24
+      name: credits text 2_23
       rect:
         serializedVersion: 2
-        x: 948
+        x: 902
         y: 634
         width: 56
         height: 65
@@ -963,17 +939,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddb5e362445a52300800000000000000
-      internalID: 226769068370058205
+      spriteID: d0888b807f4871a60800000000000000
+      internalID: 7644725089022806029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_25
+      name: credits text 2_24
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 958
         y: 634
         width: 27
         height: 47
@@ -984,17 +960,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21818c29fa5a2e400800000000000000
-      internalID: 352025894388766738
+      spriteID: 203d7ca89486097c0800000000000000
+      internalID: -4066635798445305086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_26
+      name: credits text 2_25
       rect:
         serializedVersion: 2
-        x: 1031
+        x: 985
         y: 634
         width: 27
         height: 47
@@ -1005,17 +981,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f3af82bea08f70a0800000000000000
-      internalID: -6881640217790405642
+      spriteID: 09dba400329f72ef0800000000000000
+      internalID: -132863735260070512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_27
+      name: credits text 2_26
       rect:
         serializedVersion: 2
-        x: 1059
+        x: 1013
         y: 634
         width: 41
         height: 46
@@ -1026,17 +1002,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 664a0a8a257a8f8a0800000000000000
-      internalID: -6271078507655158682
+      spriteID: 6d0e707fd829a0cb0800000000000000
+      internalID: -4896940506379460394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_28
+      name: credits text 2_27
       rect:
         serializedVersion: 2
-        x: 1102
+        x: 1057
         y: 633
         width: 44
         height: 66
@@ -1047,17 +1023,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa25bacc8859dcd00800000000000000
-      internalID: 994615507500618410
+      spriteID: 7adfae2ed7ff5f450800000000000000
+      internalID: 6122080184623103399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_29
+      name: credits text 2_28
       rect:
         serializedVersion: 2
-        x: 1148
+        x: 1102
         y: 633
         width: 44
         height: 48
@@ -1068,17 +1044,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf939e91e45e1f1e0800000000000000
-      internalID: -2165697822183572996
+      spriteID: a459633e6ee1cb200800000000000000
+      internalID: 197066460700775754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_30
+      name: credits text 2_29
       rect:
         serializedVersion: 2
-        x: 628
+        x: 583
         y: 633
         width: 14
         height: 20
@@ -1089,14 +1065,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0bd33bac848b3b620800000000000000
-      internalID: 2788775217050369456
+      spriteID: 3683c1326ee4a0e70800000000000000
+      internalID: 9082158348884523107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_31
+      name: credits text 2_30
       rect:
         serializedVersion: 2
         x: 322
@@ -1110,14 +1086,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41c090bae2f7b2a90800000000000000
-      internalID: -7337631329455371244
+      spriteID: 05920bb0948eabd50800000000000000
+      internalID: 6753965991621830992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_32
+      name: credits text 2_31
       rect:
         serializedVersion: 2
         x: 375
@@ -1131,14 +1107,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6313456c4e3305f60800000000000000
-      internalID: 8020967994019819830
+      spriteID: b6a99915f93a88560800000000000000
+      internalID: 7316277499327519339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_33
+      name: credits text 2_32
       rect:
         serializedVersion: 2
         x: 414
@@ -1152,14 +1128,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddf63ceffa5b38950800000000000000
-      internalID: 6450198858822807517
+      spriteID: 802134f5853be7340800000000000000
+      internalID: 4863521839743439368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_34
+      name: credits text 2_33
       rect:
         serializedVersion: 2
         x: 440
@@ -1173,14 +1149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d1f86ff341941090800000000000000
-      internalID: -8064661311479811628
+      spriteID: 06c124d3a5b362ae0800000000000000
+      internalID: -1574505760958571424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_35
+      name: credits text 2_34
       rect:
         serializedVersion: 2
         x: 456
@@ -1194,14 +1170,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4eccfb0c52e13d150800000000000000
-      internalID: 5896089484654529764
+      spriteID: a673a43cab28a95a0800000000000000
+      internalID: -6513750172386052246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_36
+      name: credits text 2_35
       rect:
         serializedVersion: 2
         x: 500
@@ -1215,14 +1191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e5fce7b8abc19d10800000000000000
-      internalID: 2130708024223659491
+      spriteID: b90c25cec3f1d6280800000000000000
+      internalID: -9048541729794113381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_37
+      name: credits text 2_36
       rect:
         serializedVersion: 2
         x: 542
@@ -1236,14 +1212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d504a5514669197c0800000000000000
-      internalID: -4066303631939714979
+      spriteID: 7f26ffa58632507c0800000000000000
+      internalID: -4105836554168081673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_38
+      name: credits text 2_37
       rect:
         serializedVersion: 2
         x: 582
@@ -1257,14 +1233,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11367843570121e40800000000000000
-      internalID: 5625576980117676817
+      spriteID: fa8108c25f8d8ac20800000000000000
+      internalID: 3218060481281398959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_39
+      name: credits text 2_38
       rect:
         serializedVersion: 2
         x: 609
@@ -1278,14 +1254,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 634ffc0a3ea49f450800000000000000
-      internalID: 6123007509902914614
+      spriteID: b403a402096d6d640800000000000000
+      internalID: 5104503142176403531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_40
+      name: credits text 2_39
       rect:
         serializedVersion: 2
         x: 646
@@ -1299,14 +1275,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 655abb77450994bf0800000000000000
-      internalID: -339581604429322922
+      spriteID: 985a35cb6d25170d0800000000000000
+      internalID: -3426866759216159351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_41
+      name: credits text 2_40
       rect:
         serializedVersion: 2
         x: 718
@@ -1320,14 +1296,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 058115bf822bfb440800000000000000
-      internalID: 4953874004215666768
+      spriteID: 5b3b9ba3ed7a415f0800000000000000
+      internalID: -786819461973167179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_42
+      name: credits text 2_41
       rect:
         serializedVersion: 2
         x: 757
@@ -1341,14 +1317,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a03ff8678c49244f0800000000000000
-      internalID: -845950191288716534
+      spriteID: 91d8b8e0fb23f3710800000000000000
+      internalID: 1675113382569282841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_43
+      name: credits text 2_42
       rect:
         serializedVersion: 2
         x: 785
@@ -1362,14 +1338,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27c91d83c232d8b10800000000000000
-      internalID: 1985281683579051122
+      spriteID: 474c26ff4881257b0800000000000000
+      internalID: -5237096457179052940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_44
+      name: credits text 2_43
       rect:
         serializedVersion: 2
         x: 800
@@ -1383,14 +1359,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db9ce9ed35a994450800000000000000
-      internalID: 6073555257493735869
+      spriteID: 46da8f6e49f4dbeb0800000000000000
+      internalID: -4702514934956118684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_45
+      name: credits text 2_44
       rect:
         serializedVersion: 2
         x: 839
@@ -1404,14 +1380,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04492b30f912fea80800000000000000
-      internalID: -8435486610196097984
+      spriteID: 28dd975befd3bdf70800000000000000
+      internalID: 9213025626892131714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_46
+      name: credits text 2_45
       rect:
         serializedVersion: 2
         x: 901
@@ -1425,14 +1401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27660d9eb2e9c8c20800000000000000
-      internalID: 3210114545851852402
+      spriteID: 18642c566392ebd50800000000000000
+      internalID: 6754881804714526337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_47
+      name: credits text 2_46
       rect:
         serializedVersion: 2
         x: 947
@@ -1446,14 +1422,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba3de1c6e9fe621f0800000000000000
-      internalID: -1069904397756083285
+      spriteID: a453a7b563f611890800000000000000
+      internalID: -7489082426086771382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_48
+      name: credits text 2_47
       rect:
         serializedVersion: 2
         x: 991
@@ -1467,14 +1443,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90018a756f5da22d0800000000000000
-      internalID: -3302592122713534455
+      spriteID: 321246b32731fe540800000000000000
+      internalID: 5039267889394491683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_49
+      name: credits text 2_48
       rect:
         serializedVersion: 2
         x: 1034
@@ -1488,14 +1464,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0eb4cf1e035b231b0800000000000000
-      internalID: -5678276958606308384
+      spriteID: f6f9aeaf2605256d0800000000000000
+      internalID: -3003249615456002193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_50
+      name: credits text 2_49
       rect:
         serializedVersion: 2
         x: 1074
@@ -1509,14 +1485,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb57237eee584eae0800000000000000
-      internalID: -1520943513016830533
+      spriteID: 4f5d3d266991f2870800000000000000
+      internalID: 8660168742150591988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_51
+      name: credits text 2_50
       rect:
         serializedVersion: 2
         x: 1100
@@ -1530,14 +1506,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b83f31b92caaebe0800000000000000
-      internalID: -1447155035178846028
+      spriteID: 7e6bbc59380685b00800000000000000
+      internalID: 817509450637883111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_52
+      name: credits text 2_51
       rect:
         serializedVersion: 2
         x: 1129
@@ -1551,14 +1527,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a70ec2de79cfb1f0800000000000000
-      internalID: -1026880643477403736
+      spriteID: 2bb2c667064100630800000000000000
+      internalID: 3891132482584325042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_53
+      name: credits text 2_52
       rect:
         serializedVersion: 2
         x: 609
@@ -1572,14 +1548,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 517eab20007148ca0800000000000000
-      internalID: -6015657913446897899
+      spriteID: f2af33a11d6a08110800000000000000
+      internalID: 1261191312681728559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_54
+      name: credits text 2_53
       rect:
         serializedVersion: 2
         x: 3
@@ -1593,14 +1569,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd408f50ab9b6a8b0800000000000000
-      internalID: -5141217715981646628
+      spriteID: c07a3c65abdbe6250800000000000000
+      internalID: 5939893566565492492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_55
+      name: credits text 2_54
       rect:
         serializedVersion: 2
         x: 59
@@ -1614,14 +1590,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fddc9288e32311a60800000000000000
-      internalID: 7642945286778244575
+      spriteID: 64d3b4afdec86b0e0800000000000000
+      internalID: -2254459609717981882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_56
+      name: credits text 2_55
       rect:
         serializedVersion: 2
         x: 87
@@ -1635,14 +1611,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b4aef7fb9953f350800000000000000
-      internalID: 6049277250904171696
+      spriteID: 4c952b9883605c190800000000000000
+      internalID: -7942935527899899452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_57
+      name: credits text 2_56
       rect:
         serializedVersion: 2
         x: 103
@@ -1656,14 +1632,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1607421dbf175ca00800000000000000
-      internalID: 776151837150834785
+      spriteID: 7d5d1142b9c670230800000000000000
+      internalID: 3604969440314250711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_58
+      name: credits text 2_57
       rect:
         serializedVersion: 2
         x: 127
@@ -1677,14 +1653,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a1fe4aa0912aaae0800000000000000
-      internalID: -1537379417577295448
+      spriteID: 11f6bf0c8bdb78600800000000000000
+      internalID: 470553287292841745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_59
+      name: credits text 2_58
       rect:
         serializedVersion: 2
         x: 156
@@ -1698,14 +1674,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47fcced53bc91ae20800000000000000
-      internalID: 3360139091183980404
+      spriteID: 61b1ead95dd72ee40800000000000000
+      internalID: 5684244036121926422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_60
+      name: credits text 2_59
       rect:
         serializedVersion: 2
         x: 181
@@ -1719,14 +1695,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25ec5a787b1ba21a0800000000000000
-      internalID: -6833454082768384430
+      spriteID: af468fe03820e8b30800000000000000
+      internalID: 4291370256845792506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_61
+      name: credits text 2_60
       rect:
         serializedVersion: 2
         x: 220
@@ -1740,14 +1716,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38225d4a87d0c0b60800000000000000
-      internalID: 7713555073591485059
+      spriteID: 6289eb7f2cc642c70800000000000000
+      internalID: 8945394344500566054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_62
+      name: credits text 2_61
       rect:
         serializedVersion: 2
         x: 266
@@ -1761,14 +1737,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b73a73086f10c40d0800000000000000
-      internalID: -3437370257365818501
+      spriteID: 0bb1502985c8fa6f0800000000000000
+      internalID: -671163507420095568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_63
+      name: credits text 2_62
       rect:
         serializedVersion: 2
         x: 311
@@ -1782,14 +1758,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dc3625543cc59e90800000000000000
-      internalID: -7019479919048114984
+      spriteID: 785bd36bf491f1130800000000000000
+      internalID: 3539575662287107463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_64
+      name: credits text 2_63
       rect:
         serializedVersion: 2
         x: 353
@@ -1803,14 +1779,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff500ebaa8ec97850800000000000000
-      internalID: 6375353842504041983
+      spriteID: ed17112ff1dee7a50800000000000000
+      internalID: 6520910031940055518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_65
+      name: credits text 2_64
       rect:
         serializedVersion: 2
         x: 368
@@ -1824,14 +1800,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11fabfae4445430f0800000000000000
-      internalID: -1138192150841020655
+      spriteID: 45b929d816f5a9490800000000000000
+      internalID: -7738768137091114156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_66
+      name: credits text 2_65
       rect:
         serializedVersion: 2
         x: 408
@@ -1845,14 +1821,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21d2da9b454e54220800000000000000
-      internalID: 2469631023226105106
+      spriteID: 5a4d5a4c8cf4747f0800000000000000
+      internalID: -628445899283639131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_67
+      name: credits text 2_66
       rect:
         serializedVersion: 2
         x: 471
@@ -1866,14 +1842,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4a72304fb0180880800000000000000
-      internalID: -8644641071135819186
+      spriteID: 99d24d9a56463bdb0800000000000000
+      internalID: -4777364391906234983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_68
+      name: credits text 2_67
       rect:
         serializedVersion: 2
         x: 519
@@ -1887,14 +1863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ca854bf5fcc8c230800000000000000
-      internalID: 3659400054093220551
+      spriteID: f0c426bf5d70c5bc0800000000000000
+      internalID: -3793148170525848561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_69
+      name: credits text 2_68
       rect:
         serializedVersion: 2
         x: 563
@@ -1908,14 +1884,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b5f84ca3143801a0800000000000000
-      internalID: -6843162374689983051
+      spriteID: 0b5c7e658a5e2dc20800000000000000
+      internalID: 3229896393953363376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_70
+      name: credits text 2_69
       rect:
         serializedVersion: 2
         x: 581
@@ -1929,14 +1905,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 533569dacbaffbd00800000000000000
-      internalID: 990786131317904181
+      spriteID: fd52718f239fde980800000000000000
+      internalID: -8507870123727051297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_71
+      name: credits text 2_70
       rect:
         serializedVersion: 2
         x: 596
@@ -1950,14 +1926,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed9de47cd15813730800000000000000
-      internalID: 3977106308889237982
+      spriteID: 43a394815597cc640800000000000000
+      internalID: 5101585884290562612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_72
+      name: credits text 2_71
       rect:
         serializedVersion: 2
         x: 642
@@ -1971,14 +1947,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a528155c6abba8e0800000000000000
-      internalID: -1681045061445868120
+      spriteID: 98112b1f9d4a6fa70800000000000000
+      internalID: 8860450572867867017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_73
+      name: credits text 2_72
       rect:
         serializedVersion: 2
         x: 687
@@ -1992,14 +1968,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 390000616ea137a10800000000000000
-      internalID: 1905896642821750931
+      spriteID: a65feb92ecdbe87d0800000000000000
+      internalID: -2914183215700839062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_74
+      name: credits text 2_73
       rect:
         serializedVersion: 2
         x: 752
@@ -2013,14 +1989,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eba0e8e06dce17b0800000000000000
-      internalID: -5251534299359826970
+      spriteID: 397b9cbcd0f4cc870800000000000000
+      internalID: 8704419100472489875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_75
+      name: credits text 2_74
       rect:
         serializedVersion: 2
         x: 800
@@ -2034,14 +2010,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 675742a8978119a60800000000000000
-      internalID: 7678945749931160950
+      spriteID: 04622beec9c6a5cd0800000000000000
+      internalID: -2568621216186096064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_76
+      name: credits text 2_75
       rect:
         serializedVersion: 2
         x: 845
@@ -2055,14 +2031,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23a3f03d6353f5b00800000000000000
-      internalID: 819432166790216242
+      spriteID: 674d2536fae997af0800000000000000
+      internalID: -398112615922740106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_77
+      name: credits text 2_76
       rect:
         serializedVersion: 2
         x: 860
@@ -2076,14 +2052,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0374457dc6cf8c510800000000000000
-      internalID: 1569782014537910064
+      spriteID: 059d1e54f0e5d9e90800000000000000
+      internalID: -7017349224683415216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_78
+      name: credits text 2_77
       rect:
         serializedVersion: 2
         x: 924
@@ -2097,14 +2073,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 908bcd5b813e34910800000000000000
-      internalID: 1820548369657673737
+      spriteID: 05133ef7a0d2ee1f0800000000000000
+      internalID: -1013823342993264304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_79
+      name: credits text 2_78
       rect:
         serializedVersion: 2
         x: 1002
@@ -2118,14 +2094,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0042a2abf7cbdc900800000000000000
-      internalID: 706427973337228288
+      spriteID: ebcf60d9e403f9600800000000000000
+      internalID: 477153199724625086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_80
+      name: credits text 2_79
       rect:
         serializedVersion: 2
         x: 1043
@@ -2139,14 +2115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c503fed5208c98380800000000000000
-      internalID: -8968417270440185764
+      spriteID: 63ce027a4584cdea0800000000000000
+      internalID: -5846718687815341002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_81
+      name: credits text 2_80
       rect:
         serializedVersion: 2
         x: 1062
@@ -2160,14 +2136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ff47ad85dfcb0fa0800000000000000
-      internalID: -5833340376216809488
+      spriteID: aec37507c68941290800000000000000
+      internalID: -7920538253129204502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_82
+      name: credits text 2_81
       rect:
         serializedVersion: 2
         x: 1080
@@ -2181,14 +2157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 694862eacab5a4140800000000000000
-      internalID: 4704673557956166806
+      spriteID: ef7df2ac4d309d740800000000000000
+      internalID: 5177173459099179006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_83
+      name: credits text 2_82
       rect:
         serializedVersion: 2
         x: 1095
@@ -2202,14 +2178,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36a4777b00a0a3710800000000000000
-      internalID: 1673661209715886691
+      spriteID: 9c9fe940a2f2dc7e0800000000000000
+      internalID: -1743685623209854519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_84
+      name: credits text 2_83
       rect:
         serializedVersion: 2
         x: 1156
@@ -2223,14 +2199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb63c31e1e344a9c0800000000000000
-      internalID: -3916931138479966533
+      spriteID: b240039ca69a8d9c0800000000000000
+      internalID: -3902182801009540053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_85
+      name: credits text 2_84
       rect:
         serializedVersion: 2
         x: 1210
@@ -2244,14 +2220,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 920ba1c8ad7515d40800000000000000
-      internalID: 5571330810199060521
+      spriteID: 2ff8adc952534cc60800000000000000
+      internalID: 7837447687193137138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_86
+      name: credits text 2_85
       rect:
         serializedVersion: 2
         x: 1255
@@ -2265,14 +2241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8d062bdd7a4d37a0800000000000000
-      internalID: -6395873991388164724
+      spriteID: af04bb917e25c4f60800000000000000
+      internalID: 8019876188962636026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_87
+      name: credits text 2_86
       rect:
         serializedVersion: 2
         x: 1279
@@ -2286,14 +2262,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06dafa5097cb4b4d0800000000000000
-      internalID: -3119661413888447136
+      spriteID: a081a2325c17b2330800000000000000
+      internalID: 3687165811445340170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_88
+      name: credits text 2_87
       rect:
         serializedVersion: 2
         x: 1322
@@ -2307,14 +2283,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 177de712a24ed1540800000000000000
-      internalID: 4980387632543356785
+      spriteID: b7b1c4894f87dbc80800000000000000
+      internalID: -8305349145878848645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_89
+      name: credits text 2_88
       rect:
         serializedVersion: 2
         x: 1381
@@ -2328,14 +2304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 471ebd58cb3002800800000000000000
-      internalID: 585472059792679284
+      spriteID: 8c784a0d0933e5af0800000000000000
+      internalID: -405830219348015160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_90
+      name: credits text 2_89
       rect:
         serializedVersion: 2
         x: 1408
@@ -2349,14 +2325,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c7d68a52d85003f0800000000000000
-      internalID: -936651062007900223
+      spriteID: 775b36ec705ab95e0800000000000000
+      internalID: -1901744964687907465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_91
+      name: credits text 2_90
       rect:
         serializedVersion: 2
         x: 1452
@@ -2370,14 +2346,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4dea6f64ece0f150800000000000000
-      internalID: 5904479577348697419
+      spriteID: 996d6bcd0b1840280800000000000000
+      internalID: -9077988352254880103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_92
+      name: credits text 2_91
       rect:
         serializedVersion: 2
         x: 181
@@ -2391,14 +2367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 809b32a6ba7cff5c0800000000000000
-      internalID: -4179402390142469880
+      spriteID: 1cef7309b871c6920800000000000000
+      internalID: 2984786541227278017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_93
+      name: credits text 2_92
       rect:
         serializedVersion: 2
         x: 146
@@ -2412,14 +2388,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10a0f6e2522d685f0800000000000000
-      internalID: -754684830403327487
+      spriteID: e4fd035af7e890b20800000000000000
+      internalID: 3101166497304731470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_94
+      name: credits text 2_93
       rect:
         serializedVersion: 2
         x: 206
@@ -2433,14 +2409,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 039ceb558620035d0800000000000000
-      internalID: -3084963097610368720
+      spriteID: 580f56e010ba20560800000000000000
+      internalID: 7278567968809021573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_95
+      name: credits text 2_94
       rect:
         serializedVersion: 2
         x: 263
@@ -2454,14 +2430,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6899db6904b12500800000000000000
-      internalID: 369774596978219118
+      spriteID: 5ae1d978bb2d76b80800000000000000
+      internalID: -8401514876960432475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_96
+      name: credits text 2_95
       rect:
         serializedVersion: 2
         x: 326
@@ -2475,14 +2451,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ab0da41faee12a40800000000000000
-      internalID: 5341813068771691427
+      spriteID: bbfedb447a7d50150800000000000000
+      internalID: 5838309605368524731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_97
+      name: credits text 2_96
       rect:
         serializedVersion: 2
         x: 387
@@ -2496,14 +2472,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bcab53be60bfa080800000000000000
-      internalID: -9173919926428390216
+      spriteID: 7bf7a0f0f5c754ff0800000000000000
+      internalID: -52499072928809033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_98
+      name: credits text 2_97
       rect:
         serializedVersion: 2
         x: 472
@@ -2517,14 +2493,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78338a795aa517520800000000000000
-      internalID: 2698037319032124295
+      spriteID: 217ab87bf79adfe10800000000000000
+      internalID: 2233127356250957586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_99
+      name: credits text 2_98
       rect:
         serializedVersion: 2
         x: 526
@@ -2538,14 +2514,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01fa46b7ad7a5be90800000000000000
-      internalID: -7010512688117403888
+      spriteID: 321b1f25e721babc0800000000000000
+      internalID: -3770899929225907933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_100
+      name: credits text 2_99
       rect:
         serializedVersion: 2
         x: 586
@@ -2559,14 +2535,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d48aee12d2ee31e20800000000000000
-      internalID: 3320259227912415309
+      spriteID: 25c28af8d6a273180800000000000000
+      internalID: -9135786669047796654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_101
+      name: credits text 2_100
       rect:
         serializedVersion: 2
         x: 671
@@ -2580,14 +2556,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2ce9ab3a51789b30800000000000000
-      internalID: 4294306877059755052
+      spriteID: 9a0d8b88654810880800000000000000
+      internalID: -8646484302378774359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_102
+      name: credits text 2_101
       rect:
         serializedVersion: 2
         x: 706
@@ -2601,14 +2577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed47df451bf3890b0800000000000000
-      internalID: -5721753295706557218
+      spriteID: 49f6a3d8826872660800000000000000
+      internalID: 7360999624686595988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_103
+      name: credits text 2_102
       rect:
         serializedVersion: 2
         x: 764
@@ -2622,14 +2598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 18d6cfaa57672cf90800000000000000
-      internalID: -6934850228445221503
+      spriteID: 533be3fd59573d730800000000000000
+      internalID: 4022688178727990069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_104
+      name: credits text 2_103
       rect:
         serializedVersion: 2
         x: 830
@@ -2643,14 +2619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6165009b9ad10f4f0800000000000000
-      internalID: -797104519254092266
+      spriteID: 8708956df2cf971c0800000000000000
+      internalID: -4505292669817618312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_105
+      name: credits text 2_104
       rect:
         serializedVersion: 2
         x: 894
@@ -2664,14 +2640,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86d80a1432882ed20800000000000000
-      internalID: 3306354761449639272
+      spriteID: 148da3283e996d5c0800000000000000
+      internalID: -4190993200800147391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_106
+      name: credits text 2_105
       rect:
         serializedVersion: 2
         x: 916
@@ -2685,14 +2661,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 987f10c70832d1550800000000000000
-      internalID: 6133097302291773321
+      spriteID: e535d4bd12125bb70800000000000000
+      internalID: 8914067466746680158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_107
+      name: credits text 2_106
       rect:
         serializedVersion: 2
         x: 977
@@ -2706,14 +2682,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7db5f7b81382c1160800000000000000
-      internalID: 6997512114285796311
+      spriteID: 183e8729957076e80800000000000000
+      internalID: -8185565716431707263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_108
+      name: credits text 2_107
       rect:
         serializedVersion: 2
         x: 1033
@@ -2727,14 +2703,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 961a69e6d787c9260800000000000000
-      internalID: 7105686792205410665
+      spriteID: 2581423dc160ce5c0800000000000000
+      internalID: -4184963232862824366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_109
+      name: credits text 2_108
       rect:
         serializedVersion: 2
         x: 1057
@@ -2748,14 +2724,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69b568a285b43edc0800000000000000
-      internalID: -3610959634178352234
+      spriteID: 239ccfdc171e210d0800000000000000
+      internalID: -3453450085336299214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_110
+      name: credits text 2_109
       rect:
         serializedVersion: 2
         x: 1114
@@ -2769,14 +2745,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff5fdcfea574e9e50800000000000000
-      internalID: 6817965341781390847
+      spriteID: 1f49d6946204b2a50800000000000000
+      internalID: 6497357420596925681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_111
+      name: credits text 2_110
       rect:
         serializedVersion: 2
         x: 1176
@@ -2790,14 +2766,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e6918218618b9430800000000000000
-      internalID: 3790765795349468896
+      spriteID: f89dabc5a00faf2b0800000000000000
+      internalID: -5549859663484626545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_112
+      name: credits text 2_111
       rect:
         serializedVersion: 2
         x: 1227
@@ -2811,14 +2787,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0dd246cb38cce1930800000000000000
-      internalID: 4115951975636676048
+      spriteID: ff76f13c9284745c0800000000000000
+      internalID: -4231333980686817281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_113
+      name: credits text 2_112
       rect:
         serializedVersion: 2
         x: 1252
@@ -2832,14 +2808,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17e3b6bf08e1d3640800000000000000
-      internalID: 5061235095557062257
+      spriteID: a033a8d02b6235190800000000000000
+      internalID: -7974987968969821430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_114
+      name: credits text 2_113
       rect:
         serializedVersion: 2
         x: 1176
@@ -2853,14 +2829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1658e725e8aabd0b0800000000000000
-      internalID: -5702776974888499871
+      spriteID: b7c69d6005e6bdaa0800000000000000
+      internalID: -6135188777370817413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Credits Text_115
+      name: credits text 2_114
       rect:
         serializedVersion: 2
         x: 1227
@@ -2874,8 +2850,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35eedf091b6cf2890800000000000000
-      internalID: -7480541990095032749
+      spriteID: a1c414a4df736fa80800000000000000
+      internalID: -8433491691192628198
       vertices: []
       indices: 
       edges: []
@@ -2891,122 +2867,121 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Credits Text_0: 202155700445372943
-      Credits Text_1: 405228293785224890
-      Credits Text_10: -4836910943165045699
-      Credits Text_100: 3320259227912415309
-      Credits Text_101: 4294306877059755052
-      Credits Text_102: -5721753295706557218
-      Credits Text_103: -6934850228445221503
-      Credits Text_104: -797104519254092266
-      Credits Text_105: 3306354761449639272
-      Credits Text_106: 6133097302291773321
-      Credits Text_107: 6997512114285796311
-      Credits Text_108: 7105686792205410665
-      Credits Text_109: -3610959634178352234
-      Credits Text_11: -2115598810338914579
-      Credits Text_110: 6817965341781390847
-      Credits Text_111: 3790765795349468896
-      Credits Text_112: 4115951975636676048
-      Credits Text_113: 5061235095557062257
-      Credits Text_114: -5702776974888499871
-      Credits Text_115: -7480541990095032749
-      Credits Text_12: 9134272583714058285
-      Credits Text_13: 2381777638638209728
-      Credits Text_14: -7843214306037959204
-      Credits Text_15: -2004034061742017431
-      Credits Text_16: 4476271977762284315
-      Credits Text_17: -302553948847774947
-      Credits Text_18: -6089756905628113326
-      Credits Text_19: -2737062732612500246
-      Credits Text_2: -5571585598702112378
-      Credits Text_20: -1216373394682501555
-      Credits Text_21: -6540070431093457074
-      Credits Text_22: 4961035542029462890
-      Credits Text_23: 1484246169279479545
-      Credits Text_24: 226769068370058205
-      Credits Text_25: 352025894388766738
-      Credits Text_26: -6881640217790405642
-      Credits Text_27: -6271078507655158682
-      Credits Text_28: 994615507500618410
-      Credits Text_29: -2165697822183572996
-      Credits Text_3: 4442834716601244541
-      Credits Text_30: 2788775217050369456
-      Credits Text_31: -7337631329455371244
-      Credits Text_32: 8020967994019819830
-      Credits Text_33: 6450198858822807517
-      Credits Text_34: -8064661311479811628
-      Credits Text_35: 5896089484654529764
-      Credits Text_36: 2130708024223659491
-      Credits Text_37: -4066303631939714979
-      Credits Text_38: 5625576980117676817
-      Credits Text_39: 6123007509902914614
-      Credits Text_4: -1263710676511583899
-      Credits Text_40: -339581604429322922
-      Credits Text_41: 4953874004215666768
-      Credits Text_42: -845950191288716534
-      Credits Text_43: 1985281683579051122
-      Credits Text_44: 6073555257493735869
-      Credits Text_45: -8435486610196097984
-      Credits Text_46: 3210114545851852402
-      Credits Text_47: -1069904397756083285
-      Credits Text_48: -3302592122713534455
-      Credits Text_49: -5678276958606308384
-      Credits Text_5: -7981701931817989993
-      Credits Text_50: -1520943513016830533
-      Credits Text_51: -1447155035178846028
-      Credits Text_52: -1026880643477403736
-      Credits Text_53: -6015657913446897899
-      Credits Text_54: -5141217715981646628
-      Credits Text_55: 7642945286778244575
-      Credits Text_56: 6049277250904171696
-      Credits Text_57: 776151837150834785
-      Credits Text_58: -1537379417577295448
-      Credits Text_59: 3360139091183980404
-      Credits Text_6: 479328664444889762
-      Credits Text_60: -6833454082768384430
-      Credits Text_61: 7713555073591485059
-      Credits Text_62: -3437370257365818501
-      Credits Text_63: -7019479919048114984
-      Credits Text_64: 6375353842504041983
-      Credits Text_65: -1138192150841020655
-      Credits Text_66: 2469631023226105106
-      Credits Text_67: -8644641071135819186
-      Credits Text_68: 3659400054093220551
-      Credits Text_69: -6843162374689983051
-      Credits Text_7: -8194440469322792472
-      Credits Text_70: 990786131317904181
-      Credits Text_71: 3977106308889237982
-      Credits Text_72: -1681045061445868120
-      Credits Text_73: 1905896642821750931
-      Credits Text_74: -5251534299359826970
-      Credits Text_75: 7678945749931160950
-      Credits Text_76: 819432166790216242
-      Credits Text_77: 1569782014537910064
-      Credits Text_78: 1820548369657673737
-      Credits Text_79: 706427973337228288
-      Credits Text_8: -1513594746484837920
-      Credits Text_80: -8968417270440185764
-      Credits Text_81: -5833340376216809488
-      Credits Text_82: 4704673557956166806
-      Credits Text_83: 1673661209715886691
-      Credits Text_84: -3916931138479966533
-      Credits Text_85: 5571330810199060521
-      Credits Text_86: -6395873991388164724
-      Credits Text_87: -3119661413888447136
-      Credits Text_88: 4980387632543356785
-      Credits Text_89: 585472059792679284
-      Credits Text_9: 4015629779715561231
-      Credits Text_90: -936651062007900223
-      Credits Text_91: 5904479577348697419
-      Credits Text_92: -4179402390142469880
-      Credits Text_93: -754684830403327487
-      Credits Text_94: -3084963097610368720
-      Credits Text_95: 369774596978219118
-      Credits Text_96: 5341813068771691427
-      Credits Text_97: -9173919926428390216
-      Credits Text_98: 2698037319032124295
-      Credits Text_99: -7010512688117403888
+      credits text 2_0: -7918350141919963089
+      credits text 2_1: -4978947513203406339
+      credits text 2_10: -7252989455333069545
+      credits text 2_100: -8646484302378774359
+      credits text 2_101: 7360999624686595988
+      credits text 2_102: 4022688178727990069
+      credits text 2_103: -4505292669817618312
+      credits text 2_104: -4190993200800147391
+      credits text 2_105: 8914067466746680158
+      credits text 2_106: -8185565716431707263
+      credits text 2_107: -4184963232862824366
+      credits text 2_108: -3453450085336299214
+      credits text 2_109: 6497357420596925681
+      credits text 2_11: -5798563003009576578
+      credits text 2_110: -5549859663484626545
+      credits text 2_111: -4231333980686817281
+      credits text 2_112: -7974987968969821430
+      credits text 2_113: -6135188777370817413
+      credits text 2_114: -8433491691192628198
+      credits text 2_12: 4957208143703500790
+      credits text 2_13: -6451142319284082914
+      credits text 2_14: -6656993043769392799
+      credits text 2_15: 8316503861684788771
+      credits text 2_16: -310176554823526478
+      credits text 2_17: -7014921521489081448
+      credits text 2_18: -4048432321610154179
+      credits text 2_19: 3070380426849823813
+      credits text 2_2: 4669545979531066145
+      credits text 2_20: 6804355250977694523
+      credits text 2_21: -1240018790447791628
+      credits text 2_22: 8008848002882902370
+      credits text 2_23: 7644725089022806029
+      credits text 2_24: -4066635798445305086
+      credits text 2_25: -132863735260070512
+      credits text 2_26: -4896940506379460394
+      credits text 2_27: 6122080184623103399
+      credits text 2_28: 197066460700775754
+      credits text 2_29: 9082158348884523107
+      credits text 2_3: -3436416615565008817
+      credits text 2_30: 6753965991621830992
+      credits text 2_31: 7316277499327519339
+      credits text 2_32: 4863521839743439368
+      credits text 2_33: -1574505760958571424
+      credits text 2_34: -6513750172386052246
+      credits text 2_35: -9048541729794113381
+      credits text 2_36: -4105836554168081673
+      credits text 2_37: 3218060481281398959
+      credits text 2_38: 5104503142176403531
+      credits text 2_39: -3426866759216159351
+      credits text 2_4: 8111066365848200176
+      credits text 2_40: -786819461973167179
+      credits text 2_41: 1675113382569282841
+      credits text 2_42: -5237096457179052940
+      credits text 2_43: -4702514934956118684
+      credits text 2_44: 9213025626892131714
+      credits text 2_45: 6754881804714526337
+      credits text 2_46: -7489082426086771382
+      credits text 2_47: 5039267889394491683
+      credits text 2_48: -3003249615456002193
+      credits text 2_49: 8660168742150591988
+      credits text 2_5: -1189545043461015966
+      credits text 2_50: 817509450637883111
+      credits text 2_51: 3891132482584325042
+      credits text 2_52: 1261191312681728559
+      credits text 2_53: 5939893566565492492
+      credits text 2_54: -2254459609717981882
+      credits text 2_55: -7942935527899899452
+      credits text 2_56: 3604969440314250711
+      credits text 2_57: 470553287292841745
+      credits text 2_58: 5684244036121926422
+      credits text 2_59: 4291370256845792506
+      credits text 2_6: -853057653237842775
+      credits text 2_60: 8945394344500566054
+      credits text 2_61: -671163507420095568
+      credits text 2_62: 3539575662287107463
+      credits text 2_63: 6520910031940055518
+      credits text 2_64: -7738768137091114156
+      credits text 2_65: -628445899283639131
+      credits text 2_66: -4777364391906234983
+      credits text 2_67: -3793148170525848561
+      credits text 2_68: 3229896393953363376
+      credits text 2_69: -8507870123727051297
+      credits text 2_7: 7538360738572736703
+      credits text 2_70: 5101585884290562612
+      credits text 2_71: 8860450572867867017
+      credits text 2_72: -2914183215700839062
+      credits text 2_73: 8704419100472489875
+      credits text 2_74: -2568621216186096064
+      credits text 2_75: -398112615922740106
+      credits text 2_76: -7017349224683415216
+      credits text 2_77: -1013823342993264304
+      credits text 2_78: 477153199724625086
+      credits text 2_79: -5846718687815341002
+      credits text 2_8: 5321029811926613143
+      credits text 2_80: -7920538253129204502
+      credits text 2_81: 5177173459099179006
+      credits text 2_82: -1743685623209854519
+      credits text 2_83: -3902182801009540053
+      credits text 2_84: 7837447687193137138
+      credits text 2_85: 8019876188962636026
+      credits text 2_86: 3687165811445340170
+      credits text 2_87: -8305349145878848645
+      credits text 2_88: -405830219348015160
+      credits text 2_89: -1901744964687907465
+      credits text 2_9: 5756801762187175634
+      credits text 2_90: -9077988352254880103
+      credits text 2_91: 2984786541227278017
+      credits text 2_92: 3101166497304731470
+      credits text 2_93: 7278567968809021573
+      credits text 2_94: -8401514876960432475
+      credits text 2_95: 5838309605368524731
+      credits text 2_96: -52499072928809033
+      credits text 2_97: 2233127356250957586
+      credits text 2_98: -3770899929225907933
+      credits text 2_99: -9135786669047796654
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: d2969062faa80d947a2af91b3499c7fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 796824379074533428
+    second: wise words from bingus_0
+  - first:
+      213: -6719140465910368031
+    second: wise words from bingus_1
+  - first:
+      213: -6968050393091622563
+    second: wise words from bingus_2
+  - first:
+      213: 2722860487332894310
+    second: wise words from bingus_3
+  - first:
+      213: -6096417769770758075
+    second: wise words from bingus_4
+  - first:
+      213: 6137585707901478890
+    second: wise words from bingus_5
+  - first:
+      213: 124261102664690683
+    second: wise words from bingus_6
+  - first:
+      213: -3109198777698199976
+    second: wise words from bingus_7
+  - first:
+      213: -1924376812756074074
+    second: wise words from bingus_8
+  - first:
+      213: -1654222297228297515
+    second: wise words from bingus_9
+  - first:
+      213: -7604202650988700663
+    second: wise words from bingus_10
+  - first:
+      213: -7495526919972337460
+    second: wise words from bingus_11
+  - first:
+      213: -1687830993012952135
+    second: wise words from bingus_12
+  - first:
+      213: 3582316037256873585
+    second: wise words from bingus_13
+  - first:
+      213: 7569731096798428595
+    second: wise words from bingus_14
+  - first:
+      213: -7514058761297939354
+    second: wise words from bingus_15
+  - first:
+      213: -4849424599058475537
+    second: wise words from bingus_16
+  - first:
+      213: 6463167760643078735
+    second: wise words from bingus_17
+  - first:
+      213: 2737351704269463877
+    second: wise words from bingus_18
+  - first:
+      213: 4898069007671171454
+    second: wise words from bingus_19
+  - first:
+      213: 3274024038327340905
+    second: wise words from bingus_20
+  - first:
+      213: -8975573325067065654
+    second: wise words from bingus_21
+  - first:
+      213: -2893164683083545829
+    second: wise words from bingus_22
+  - first:
+      213: 7804486496773481903
+    second: wise words from bingus_23
+  - first:
+      213: 4635472958965999519
+    second: wise words from bingus_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wise words from bingus_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 817
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438db1f0d83ee0b00800000000000000
+      internalID: 796824379074533428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 810
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8b5758851d0c2a0800000000000000
+      internalID: -6719140465910368031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 808
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b0c6f5138c4f90800000000000000
+      internalID: -6968050393091622563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 806
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6669c68df2b89c520800000000000000
+      internalID: 2722860487332894310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 800
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405f6ea65c256ba0800000000000000
+      internalID: -6096417769770758075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 793
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae76bf9dea51d2550800000000000000
+      internalID: 6137585707901478890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 787
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb2ab380d679b100800000000000000
+      internalID: 124261102664690683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 786
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85658375f28e9d4d0800000000000000
+      internalID: -3109198777698199976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 782
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10dad0c7d3b45e0800000000000000
+      internalID: -1924376812756074074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 745
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3d2ac5950b09e0800000000000000
+      internalID: -1654222297228297515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 744
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1cbb4af1787690800000000000000
+      internalID: -7604202650988700663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 774
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8cba2baf98af790800000000000000
+      internalID: -7495526919972337460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 774
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3719487ae9398e0800000000000000
+      internalID: -1687830993012952135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 766
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17681e9b471f6b130800000000000000
+      internalID: 3582316037256873585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 764
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf5ed83561d0960800000000000000
+      internalID: 7569731096798428595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 740
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bc672e53b8b790800000000000000
+      internalID: -7514058761297939354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 736
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe51410450263bcb0800000000000000
+      internalID: -4849424599058475537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 729
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a33e0c5d8c1b950800000000000000
+      internalID: 6463167760643078735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 726
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541aa463fd60df520800000000000000
+      internalID: 2737351704269463877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 719
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791797bfcf69f340800000000000000
+      internalID: 4898069007671171454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 715
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f479e248baf6d20800000000000000
+      internalID: 3274024038327340905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 714
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e7ef8d9b507380800000000000000
+      internalID: -8975573325067065654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 710
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b138914ac0a69d7d0800000000000000
+      internalID: -2893164683083545829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 706
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5248e6e1b1f4c60800000000000000
+      internalID: 7804486496773481903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wise words from bingus_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 566
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e81da812845040800000000000000
+      internalID: 4635472958965999519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wise words from bingus_0: 796824379074533428
+      wise words from bingus_1: -6719140465910368031
+      wise words from bingus_10: -7604202650988700663
+      wise words from bingus_11: -7495526919972337460
+      wise words from bingus_12: -1687830993012952135
+      wise words from bingus_13: 3582316037256873585
+      wise words from bingus_14: 7569731096798428595
+      wise words from bingus_15: -7514058761297939354
+      wise words from bingus_16: -4849424599058475537
+      wise words from bingus_17: 6463167760643078735
+      wise words from bingus_18: 2737351704269463877
+      wise words from bingus_19: 4898069007671171454
+      wise words from bingus_2: -6968050393091622563
+      wise words from bingus_20: 3274024038327340905
+      wise words from bingus_21: -8975573325067065654
+      wise words from bingus_22: -2893164683083545829
+      wise words from bingus_23: 7804486496773481903
+      wise words from bingus_24: 4635472958965999519
+      wise words from bingus_3: 2722860487332894310
+      wise words from bingus_4: -6096417769770758075
+      wise words from bingus_5: 6137585707901478890
+      wise words from bingus_6: 124261102664690683
+      wise words from bingus_7: -3109198777698199976
+      wise words from bingus_8: -1924376812756074074
+      wise words from bingus_9: -1654222297228297515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1589 @@
+fileFormatVersion: 2
+guid: 3468b39212519e34eb9a6760f5c13d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5282349625212719443
+    second: WOAHHH_0
+  - first:
+      213: -6731409021705600974
+    second: WOAHHH_1
+  - first:
+      213: 8057459125423801642
+    second: WOAHHH_2
+  - first:
+      213: -6662491693308424621
+    second: WOAHHH_3
+  - first:
+      213: -7488505351931662281
+    second: WOAHHH_4
+  - first:
+      213: -787490826976383958
+    second: WOAHHH_5
+  - first:
+      213: -1072250479844690975
+    second: WOAHHH_6
+  - first:
+      213: 7128157657710689677
+    second: WOAHHH_7
+  - first:
+      213: 6562537249072793736
+    second: WOAHHH_8
+  - first:
+      213: 6474302993615625009
+    second: WOAHHH_9
+  - first:
+      213: 5621422974165284547
+    second: WOAHHH_10
+  - first:
+      213: 2464572766351021662
+    second: WOAHHH_11
+  - first:
+      213: -2515580176648804794
+    second: WOAHHH_12
+  - first:
+      213: 3538320456584107534
+    second: WOAHHH_13
+  - first:
+      213: -5159644649411470488
+    second: WOAHHH_14
+  - first:
+      213: 7862470046481026964
+    second: WOAHHH_15
+  - first:
+      213: 8409886945499081059
+    second: WOAHHH_16
+  - first:
+      213: -2489174562886530629
+    second: WOAHHH_17
+  - first:
+      213: 4304261567998947746
+    second: WOAHHH_18
+  - first:
+      213: 2896996409389847347
+    second: WOAHHH_19
+  - first:
+      213: 1636716663063162912
+    second: WOAHHH_20
+  - first:
+      213: 8595559369694934221
+    second: WOAHHH_21
+  - first:
+      213: 6867162916942550050
+    second: WOAHHH_22
+  - first:
+      213: 19256127839675330
+    second: WOAHHH_23
+  - first:
+      213: 5775902033087388553
+    second: WOAHHH_24
+  - first:
+      213: 6322504985797136858
+    second: WOAHHH_25
+  - first:
+      213: -4461618393521761593
+    second: WOAHHH_26
+  - first:
+      213: 511638527982589315
+    second: WOAHHH_27
+  - first:
+      213: 5171159284547519732
+    second: WOAHHH_28
+  - first:
+      213: -9039419914006435031
+    second: WOAHHH_29
+  - first:
+      213: 8903478468169486293
+    second: WOAHHH_30
+  - first:
+      213: -8758684661182096081
+    second: WOAHHH_31
+  - first:
+      213: 2709351524648255759
+    second: WOAHHH_32
+  - first:
+      213: -1427548862929140356
+    second: WOAHHH_33
+  - first:
+      213: 5413088181179193429
+    second: WOAHHH_34
+  - first:
+      213: -4419712834634788543
+    second: WOAHHH_35
+  - first:
+      213: -8799681462391875265
+    second: WOAHHH_36
+  - first:
+      213: 2429628890151870652
+    second: WOAHHH_37
+  - first:
+      213: -8591573972071887321
+    second: WOAHHH_38
+  - first:
+      213: -286887733813113706
+    second: WOAHHH_39
+  - first:
+      213: 1754616121534523052
+    second: WOAHHH_40
+  - first:
+      213: -599535668026668099
+    second: WOAHHH_41
+  - first:
+      213: -7529378326305199962
+    second: WOAHHH_42
+  - first:
+      213: -717336555495432201
+    second: WOAHHH_43
+  - first:
+      213: -4657159094274543140
+    second: WOAHHH_44
+  - first:
+      213: 3305052123096246403
+    second: WOAHHH_45
+  - first:
+      213: -6016003445886766585
+    second: WOAHHH_46
+  - first:
+      213: 2357046766612692245
+    second: WOAHHH_47
+  - first:
+      213: 5586136055771465440
+    second: WOAHHH_48
+  - first:
+      213: 1659639150637493485
+    second: WOAHHH_49
+  - first:
+      213: -2472470430375777979
+    second: WOAHHH_50
+  - first:
+      213: 6116563598905567687
+    second: WOAHHH_51
+  - first:
+      213: 8062772923925347444
+    second: WOAHHH_52
+  - first:
+      213: -6618664156706781939
+    second: WOAHHH_53
+  - first:
+      213: 8701294785428227966
+    second: WOAHHH_54
+  - first:
+      213: -908211439560796451
+    second: WOAHHH_55
+  - first:
+      213: -6063647598680064661
+    second: WOAHHH_56
+  - first:
+      213: 3444076866644408561
+    second: WOAHHH_57
+  - first:
+      213: -627573224492581259
+    second: WOAHHH_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WOAHHH_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 783
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae27c1c00351b6b0800000000000000
+      internalID: -5282349625212719443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 730
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230c067c82b3592a0800000000000000
+      internalID: -6731409021705600974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 783
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258d136268d1df60800000000000000
+      internalID: 8057459125423801642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 782
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e4c55ba131a83a0800000000000000
+      internalID: -6662491693308424621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 782
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7307087ee0c731890800000000000000
+      internalID: -7488505351931662281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 728
+        width: 159
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca132e3454215f0800000000000000
+      internalID: -787490826976383958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 782
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37d9e9ed99e11f0800000000000000
+      internalID: -1072250479844690975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 782
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d73d28f9d4ce260800000000000000
+      internalID: 7128157657710689677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 783
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c044bbd0d21b50800000000000000
+      internalID: 6562537249072793736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 782
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b15b6354859d950800000000000000
+      internalID: 6474302993615625009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 765
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c67753596e430e40800000000000000
+      internalID: 5621422974165284547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 783
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5654758fdbe33220800000000000000
+      internalID: 2464572766351021662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_12
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 782
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64665de482dd61dd0800000000000000
+      internalID: -2515580176648804794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 782
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06913c55b3aa1130800000000000000
+      internalID: 3538320456584107534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 782
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b959047824568b0800000000000000
+      internalID: -5159644649411470488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 782
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f86a1a9da1d1d60800000000000000
+      internalID: 7862470046481026964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 783
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369eaa39e9be5b470800000000000000
+      internalID: 8409886945499081059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_17
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 782
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9c53b5ceca47dd0800000000000000
+      internalID: -2489174562886530629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_18
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 782
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a171f4571fcbbb30800000000000000
+      internalID: 4304261567998947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_19
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 765
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3339349a2e2343820800000000000000
+      internalID: 2896996409389847347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_20
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 782
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020b7d32229c6b610800000000000000
+      internalID: 1636716663063162912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_21
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 782
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4727c94bf894770800000000000000
+      internalID: 8595559369694934221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_22
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 782
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22498170a401d4f50800000000000000
+      internalID: 6867162916942550050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_23
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 782
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c322a3a859644000800000000000000
+      internalID: 19256127839675330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 782
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b51ab0c40282050800000000000000
+      internalID: 5775902033087388553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_25
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 783
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1131959cc0eb750800000000000000
+      internalID: 6322504985797136858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 770
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c259c2b5b52512c0800000000000000
+      internalID: -4461618393521761593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_27
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 633
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855ec9c784b91700800000000000000
+      internalID: 511638527982589315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_28
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 633
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f40b68a8f5a3c740800000000000000
+      internalID: 5171159284547519732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_29
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 699
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bed0a2b778d8280800000000000000
+      internalID: -9039419914006435031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 633
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc4908e728f8b70800000000000000
+      internalID: 8903478468169486293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 633
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d1496c4b6e27680800000000000000
+      internalID: -8758684661182096081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 632
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01825e5bdc899520800000000000000
+      internalID: 2709351524648255759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 699
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7588956fd3503ce0800000000000000
+      internalID: -1427548862929140356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 633
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581d0165072f1b40800000000000000
+      internalID: 5413088181179193429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 632
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141db52f7960aa2c0800000000000000
+      internalID: -4419712834634788543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_36
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 633
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39da89255041e580800000000000000
+      internalID: -8799681462391875265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_37
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 632
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb067855a96c7b120800000000000000
+      internalID: 2429628890151870652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_38
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 618
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ec9251ef894c880800000000000000
+      internalID: -8591573972071887321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_39
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 633
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c07a74025c40cf0800000000000000
+      internalID: -286887733813113706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_40
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 632
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca62d31f016a95810800000000000000
+      internalID: 1754616121534523052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_41
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 482
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb08158c750ea7f0800000000000000
+      internalID: -599535668026668099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_42
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 482
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8ad09fd46428790800000000000000
+      internalID: -7529378326305199962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 482
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffda4114328b06f0800000000000000
+      internalID: -717336555495432201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_44
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 482
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1394b7a727e5fb0800000000000000
+      internalID: -4657159094274543140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_45
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 482
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886d412567eddd20800000000000000
+      internalID: 3305052123096246403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_46
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 466
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702b4687dbcd28ca0800000000000000
+      internalID: -6016003445886766585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_47
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 481
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbeeacb89e5b020800000000000000
+      internalID: 2357046766612692245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_48
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 482
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e682476521f58d40800000000000000
+      internalID: 5586136055771465440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_49
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 481
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec241da309380710800000000000000
+      internalID: 1659639150637493485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_50
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 512
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496bc74e3500bdd0800000000000000
+      internalID: -2472470430375777979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_51
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 462
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e9deaf2662e450800000000000000
+      internalID: 6116563598905567687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_52
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 481
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c35338149b4ef60800000000000000
+      internalID: 8062772923925347444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 332
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c1e34408c524a0800000000000000
+      internalID: -6618664156706781939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_54
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 332
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778863818531c870800000000000000
+      internalID: 8701294785428227966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_55
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 333
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd65804f1826563f0800000000000000
+      internalID: -908211439560796451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_56
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 332
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3685b2a899dba0800000000000000
+      internalID: -6063647598680064661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_57
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 332
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8fa77a9a1dbcf20800000000000000
+      internalID: 3444076866644408561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WOAHHH_58
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 332
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb2933a796a47f0800000000000000
+      internalID: -627573224492581259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WOAHHH_0: -5282349625212719443
+      WOAHHH_1: -6731409021705600974
+      WOAHHH_10: 5621422974165284547
+      WOAHHH_11: 2464572766351021662
+      WOAHHH_12: -2515580176648804794
+      WOAHHH_13: 3538320456584107534
+      WOAHHH_14: -5159644649411470488
+      WOAHHH_15: 7862470046481026964
+      WOAHHH_16: 8409886945499081059
+      WOAHHH_17: -2489174562886530629
+      WOAHHH_18: 4304261567998947746
+      WOAHHH_19: 2896996409389847347
+      WOAHHH_2: 8057459125423801642
+      WOAHHH_20: 1636716663063162912
+      WOAHHH_21: 8595559369694934221
+      WOAHHH_22: 6867162916942550050
+      WOAHHH_23: 19256127839675330
+      WOAHHH_24: 5775902033087388553
+      WOAHHH_25: 6322504985797136858
+      WOAHHH_26: -4461618393521761593
+      WOAHHH_27: 511638527982589315
+      WOAHHH_28: 5171159284547519732
+      WOAHHH_29: -9039419914006435031
+      WOAHHH_3: -6662491693308424621
+      WOAHHH_30: 8903478468169486293
+      WOAHHH_31: -8758684661182096081
+      WOAHHH_32: 2709351524648255759
+      WOAHHH_33: -1427548862929140356
+      WOAHHH_34: 5413088181179193429
+      WOAHHH_35: -4419712834634788543
+      WOAHHH_36: -8799681462391875265
+      WOAHHH_37: 2429628890151870652
+      WOAHHH_38: -8591573972071887321
+      WOAHHH_39: -286887733813113706
+      WOAHHH_4: -7488505351931662281
+      WOAHHH_40: 1754616121534523052
+      WOAHHH_41: -599535668026668099
+      WOAHHH_42: -7529378326305199962
+      WOAHHH_43: -717336555495432201
+      WOAHHH_44: -4657159094274543140
+      WOAHHH_45: 3305052123096246403
+      WOAHHH_46: -6016003445886766585
+      WOAHHH_47: 2357046766612692245
+      WOAHHH_48: 5586136055771465440
+      WOAHHH_49: 1659639150637493485
+      WOAHHH_5: -787490826976383958
+      WOAHHH_50: -2472470430375777979
+      WOAHHH_51: 6116563598905567687
+      WOAHHH_52: 8062772923925347444
+      WOAHHH_53: -6618664156706781939
+      WOAHHH_54: 8701294785428227966
+      WOAHHH_55: -908211439560796451
+      WOAHHH_56: -6063647598680064661
+      WOAHHH_57: 3444076866644408561
+      WOAHHH_58: -627573224492581259
+      WOAHHH_6: -1072250479844690975
+      WOAHHH_7: 7128157657710689677
+      WOAHHH_8: 6562537249072793736
+      WOAHHH_9: 6474302993615625009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

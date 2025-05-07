@@ -8,4 +8,35 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 7a25ca3b24fb70e4fbcdbed111aea76a
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 8cd844cc932f1194eac28c9aba081a1a
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 6d96cb240a73bd44bad4bc7338bab090
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 5712517c77d44f8489981f2cb3a1f205
+  - enabled: 1
+    path: Assets/Scenes/Warning Screen.unity
+    guid: 61fc02283dfaa164c89c2663998f816f
+  - enabled: 1
+    path: Assets/Scenes/Winscreen.unity
+    guid: 2282eeadf8fd1c7479c95dde6e9c51f2
+  - enabled: 1
+    path: Assets/Scenes/bingus room.unity
+    guid: d41b3a0273bc25c44b4b0c29f7cc637a
+  - enabled: 1
+    path: Assets/Scenes/Crash Warning.unity
+    guid: 6569630ec0355a8488bf14054440e987
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 06f55fa6ffb87cf4fbea06f5f706b609
+  - enabled: 1
+    path: Assets/Scenes/Dev Room.unity
+    guid: 01f460306ab93d54ebbe2b86790bdbab
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
